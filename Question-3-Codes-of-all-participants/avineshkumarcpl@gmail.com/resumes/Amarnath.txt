@@ -1,0 +1,403 @@
+Amarnath
+MSSQL Database Administrator / IIS Administrator / TSQL, SSRS Developer
+Phone Number: 999-123-1234
+Email Id: amarnath000001@gmail.com
+Professional Summary
+ ➢ 12 + years of overall experience in IT Industry as MSSQL Database
+ Administrator, and middleware support and Solution Architecting based
+ on business demand.
+ ➢ Expertise in Installation, configuration and maintenance of SQL Server
+ 2016/2014/2012/2008/2005.
+ ➢ Very good experience in setting up Always-On Availability Groups (AAG)
+ and HA/DR Troubleshooting.
+ ➢ Experience in setting up, Migrating the databases in Azure
+ environment.
+ ➢ Very good experience in writing T-SQL writing stored procedures,
+ triggers and functions.
+ ➢ Implemented the new SQL Server 2012/2014 mechanisms like data
+ compression, online indexing, Contained Databases, security principals
+ and AAG.
+ ➢ Good hands on experience in implementing encryption using TDE.
+ ➢ Experience in Administering SQL Server High Availability and Disaster
+ Recovery strategies.
+ ➢ Experience in using DMV and dynamic management functions in
+ performance tuning and reporting out to application teams to enable
+ them to take necessary actions.
+ ➢ Worked extensively on Clustering and server consolidation.
+ Troubleshooting production issues and monitoring database instances
+ using Idera to maintain high availability.
+ ➢ Proficiency and expertise in SQL Server Replication, Backup/Recovery,
+ Disaster recovery and planning.
+ ➢ Having hands on experience in DR processes including Log shipping and
+ Database Mirroring.
+ ➢ Worked on configuring SQL Server with minimum privileged access
+ ➢ Having good experience in troubleshooting performance problems, fine-
+ tuning of databases and index Analysis.
+ ➢ Worked on SQL Server 2012 migration from SQL Server 2008 / 2005.
+ ➢ Good understanding of MongoDB NoSQL database creation and
+ administration.
+ ➢ Having good hands on experience in scheduling backups for databases
+ and transaction logs
+ ➢ Having good hands on experience in setting up the ADHOC backup/restore
+ jobs for Application support team for their testing activities.
+ ➢ Having good hands on experience in scheduling jobs for optimization,
+ consistency and integrity checks of the databases.
+ ➢ Experience in Batch processes, Import, Export, Backup, Database
+ Monitoring tools and Application support.
+ ➢ Experience in Linked Servers creation between SQL Server
+ 2016/2014/2012/2008 R2 & Oracle 9i and 10g. Also created DTS/SIS
+ packages for data transfer between the two environments.
+ ➢ Working knowledge in Integration Services(SSIS), Reporting
+ Services(SSRS)
+ ➢ Having good experience in using MS SQL Server tools like Enterprise
+ Manager, SQL query analyzer, SQL Server Profiler, Windows Performance
+ Monitor and T-SQL.
+ ➢ Experience in performance monitoring tools SolarWinds, SCOM 2012, SCOM
+ APM (Application Performance Monitoring) and Dynatrace tools
+ ➢ Excellent knowledge on TFS 2013 /2010 Administration, Version Control
+ and Release management.
+ ➢ Good experience on Microsoft Windows 2003/2008/2008R2/2012/2016
+ Servers and experience supporting mission critical applications which
+ are hosted on Windows Environments (2003/2008/2008/R2/2012/2016).
+ ➢ Expertise on coordinating with in-house application Developers,
+ Functional Support, Business users and Application Vendor in resolving
+ the mission critical issues.
+ ➢ Good experience in debugging ASP.NET and IIS issues.
+ ➢ Good experience in configuring WCF web services and debugging WCF web
+ service issues
+ ➢ Installed and configured multiple Websites in IIS using different
+ techniques and enable the web service extensions.
+ ➢ Good experience on making recommendations on products, services,
+ standards, long term Solution and attending meetings on strategic
+ planning including setting standards and direction for long term
+ solution
+ ➢ Working with Development teams, application architects on application
+ design and performance tuning.
+ ➢ Good experience on ensuring ongoing high-quality service delivery for
+ production, test, development, Disaster Recovery environments.
+ ➢ Good Experience on Onsite/Offshore Transition and Team Building
+ activities.
+ ➢ Experience of working in fast-paced, deadline-oriented environments.
+Education /Certifications;
+ ➢ Bachelors in Electronics and Communication Engineering.
+ ➢ ITIL V3 Foundation Certified
+ ➢ MCITP SQL Server Database Administrator, MCTS: SQL Server 2005
+Technical Expertise
+|Databases: |MS SQL Server 2016, 2014, 2012, 2008, 2005 |
+|Programming: |TSQL, Visual Basic 6, C & C++ |
+|DBA: |Database administration of MS SQL Server 2016, 2014,2012,2008,|
+| |2005 |
+|Operating |Windows 2016/2012/2008/2003 Advanced Server, NT & Windows 9x |
+|System: | |
+|Tools: |Backup Utility, Red Gate, SQL LightSpeed, Idera, Visio, SCOM, |
+| |SolarWinds, Dynatrace |
+|Scripting |Power Shell, VB Script |
+Professional Experience:
+Florida Agency for State Technology (AST)
+Apr’2017 -- current
+Tallahassee, FL
+MS SQL Database Administrator
+Responsibilities:
+ • Installation and administration of SQL Server instance of versions
+ 2016/2014/2012 and responsible for creation of databases as per the
+ requests from different state agencies which AST is supporting.
+ • Responsible for setting up the Development and Test databases and
+ refresh with production copy.
+ • Implemented the secondary/read-only database replicas for reporting
+ purpose using SQL Always-on feature.
+ • Handling the SQL alerts which are generated through SolarWinds
+ monitoring tool and take necessary actions to keep the system up and
+ running and involve the other team if required.
+ • Rebuilding / monitoring the indexes at regular intervals for better
+ performance.
+ • Recovering the databases from backup and Implemented Point-In-Time
+ Recovery solutions.
+ • Responsible for maintaining security of the database, providing the
+ right access to the users.
+ • Created the linked servers between Oracle and MS SQL Servers, and
+ worked various state agency users to troubleshoot the connectivity
+ issues.
+ • Implemented the database maintenance Jobs like DBCC CheckDB,
+ Reindexing, Index defrag, stats maintenance.
+ • Implemented the Database backup jobs using SQL Native, EMC Networker,
+ SQLBackup (RedGate) and SQL Safe.
+ • Configured Database Mail feature and attended the alerts from databases
+ maintenance plans failure.
+ • Responsible for SQL patching and application changes as part of change
+ and release process.
+ • Implemented the Disaster recovery solutions using Microsoft FCI and
+ Always-On feature.
+ • Implemented the SQL Server and Database Auditing as per the
+ requirements.
+Environment: SQL Server 2016/2014/2008/2005/2000 Enterprise/Standard,
+Windows Enterprise Server 2012/2008/2003, Microsoft Reporting Services.
+Global Trading Systems
+Chevron Corporation, Houston, TX Oct' 2012 –
+Apr’2017
+Database Administrator
+Responsibilities:
+ • Migrated SQL server 2008 to SQL Server 2012 in Microsoft Windows Server
+ 2012 Enterprise Edition.
+ • Migrated the 2008/2012 databases to other sites as part of Data center
+ migration.
+ • Installed and administered Eight-Node Cluster Active/Passive on
+ Microsoft Windows Server 2012 Enterprise Edition on SAN environment.
+ • Migrated the low intensive SQL Server instances from Physical to
+ Virtual infrastructure.
+ • Good Hands on experience on SQL Server Integration Services (SSIS) and
+ SQL Server Reporting Services (SSRS).
+ • Used DMVs, Performance dash board, Mirroring, database snapshots for
+ tracking Performance Counters.
+ • Rebuilding / monitoring the indexes at regular intervals for better
+ performance.
+ • Recovering the databases from backup and Implemented Point-In-Time
+ Recovery solutions.
+ • Implemented the encryption using TDE.
+ • Created the ADHOC jobs for application teams to Backup and Restore the
+ backups as per their requirements.
+ • Involved in trouble shooting and fine-tuning of databases for its
+ performance and concurrency.
+ • Experience in using SQL Server Profiler, SQL Server Agent, and Database
+ Engine Tuning Advisor (DTA).
+ • Expert in implementing the snapshot isolation and DDL triggers.
+ • Responsible for monitoring and making recommendations for performance
+ improvement in hosted databases. This involved index creation, index
+ removal, index modification, file group modifications, and adding
+ scheduled jobs to re-index and update statistics in databases.
+ • Responsible for working with Team members and offsite team to
+ accomplish the work, review the work done by offsite team.
+ • Preparing and maintaining the documentation on the process and
+ procedures need to be followed by the team.
+ • Responsible for maintaining security of the database, providing the
+ right access to the users.
+Environment: SQL Server 2008/2012/2014 Enterprise, Windows Enterprise
+Server 2012, .NET, BizTalk 2013, Microsoft Visio, Microsoft Reporting
+Services.
+Project Lynx
+Chevron Corporation, Houston, TX Jan' 2009 -
+Sep' 2012
+Application DBA/IIS Administration
+Project Lynx is a Global Downstream initiative tasked with implementing
+targeted, sustainable improvements in fuels value chain optimization
+processes, technology, and organization capabilities.
+Lynx will provide a set of system solutions and processes that
+comprehensively manage the fuel supply chain – end-to -end. These best-of-
+breed decision support tools and fit-for-purpose information systems will
+provide reliable data for supply chain integration.
+Responsibilities:
+ • Responsible for configuring and deploying web applications on IIS
+ servers and configuring database servers on windows 2003/2008/2008 R2
+ • Coordinating with vendor on application patching and deploying code
+ changes
+ • Responsible for configuring IIS security and windows firewall rules
+ • Installed and configured SSL certificates to ensure web site security
+ • Configured host headers to configure multiple web sites on same IP and
+ Port
+ • Handled Active Directories to manage ACL’s for domains, sites and users
+ • Handled security, performance, and tuning issues on Web servers to
+ optimize performance
+ • Install, configure and maintain servers for Web applications like ASP,
+ ASP.NET, and HTML on IIS 6.0/7.0/7.5 on Windows Servers
+ 2003/2008/2008R2.
+ • Configure and maintain application pools and assigned them to various
+ web applications on IIS 6.0/7.0/7.5
+ • Manage properties for the web applications such as performance, home
+ directory, directory security, custom errors and http headers.
+ • Configuring properties for the application pools like Performance,
+ health, identity and recycling
+ • Responsible for troubleshooting production issues for various IIS user
+ authentication and server issues.
+ • Created Database Objects like Tables, Stored Procedures, Views, user
+ defined data types and functions.
+ • Responsible for Query optimization and Performance tuning, tuned SQL
+ queries using Show Plans and Execution Plans.
+ • Responsible for troubleshooting day to day Production issues.
+ • Managing security, which includes monitoring and controlling database
+ access, assigning permissions to application owners.
+ • Involved in the review / test /release process of all database changes
+ and managing of Scripts in all environments including QA, Development
+ and Production Servers.
+ • Used NT Performance monitor to monitor CPU & Memory usage and SQL
+ Server Profiler to monitor and record database activities of particular
+ users, applications.
+ • Responsible for deploying the patches and releases in the Test/Stage
+ servers and provide support to application team UAT/regression testing
+ cycles.
+Environment: MS SQL Server 2005/2008, T-SQL, Windows 2003 Server
+Enterprise Education Resource planning. Sep' 2007 -
+Dec' 2008
+Choice Solutions Ltd., Hyderabad, India
+E²RP (Enterprise Education Resource Planning) platform from Choice
+Solutions represents the next generation of educational software, which
+provides a comprehensive, secure and seamless access to all stakeholder’s
+information needs to achieve higher student achievement.
+E²RP is specifically created to:
+Improve communication and collaboration amongst the stakeholders
+(Administrators, Teachers, Students and Parents).
+Personalized and secure access to their day-to-day information needs
+through a secure portal environment.
+Encourage interactions in the classroom, school and administrative
+environments through integrated Educational Tools.
+Directory – Directory module deals with Organization types, units and users
+associated with it. There are various sub modules such as organization
+Type, Organization Units, Roles, Users, Groups, Search.
+SRS: Student registration system, using this system a student will be
+registered with the E²RP so that he can be tracked and monitored every
+student is identified with a 10-digit unique number known as SASID (State
+assigned system id), to generate this ID E2RP uses identity system which is
+programmed to follow a complex algorithm called ISBM.
+Responsibilities:
+ • Responsible for installation and configuration of SQL server 2005
+ database on Dell Servers.
+ • Upgraded the existing database to SQL Server 2005.
+ • Created Database Objects like Tables, Stored Procedures, Views, user
+ defined data types and functions.
+ • Generated Reports by using MS SQL Reporting Services.
+ • Responsible for Query optimization and Performance tuning, tuned SQL
+ queries using Show Plans and Execution Plans.
+ • Responsible for troubleshooting day to day Production issues.
+ • Implementing stand by servers and Log shipping.
+ • Managing security, which includes monitoring and controlling database
+ access, assigning permissions to application owners.
+ • Involved in the review / test /release process of all database changes
+ and managing of Scripts in all environments including QA, Development
+ and Production Servers.
+ • Used NT Performance monitor to monitor CPU & Memory usage and SQL
+ Server Profiler to monitor and record database activities of particular
+ users, applications.
+ • Created effective Backup and Recovery plan by Transactional Log,
+ Differential and Full Database Backups and utilized to recover data in
+ point in time in case of disaster of database or server.
+Environment: MS SQL Server 2005/2000, T-SQL, Windows 2003 Advanced Server,
+MS Visio 2007, MS SQL Reporting Services and SSIS.
+CEDaR (Connecticut Education Data and Research) Sep'
+2007 - Dec' 2008
+Choice Solutions Ltd., Hyderabad, India
+CEDaR (Connecticut Education Data and Research) is longitudinal education
+data system for the State developed on cutting edge technology using SSIS,
+SSRS and other decision support dissemination tools to meet the increasing
+demands for education data and will enable CSDE stakeholders to make
+informed decisions based on timely and accurate information.
+Responsibilities:
+ • Involved in installation and configuration of SQL server 2005 on Dell
+ Servers. Applied patches and service packs to keep the database at
+ current patch level.
+ • Created Database Objects like Tables, Stored Procedures, Views, user
+ defined data types and functions.
+ • Defined relationship between tables and enforced the referential
+ integrity constraints. Created Clustered and Non-Clustered Indexes.
+ • Responsible for General Database Administration and Performance tuning.
+ • Data loading from .xls, .csv and flat files to SQL Server using SSIS
+ packages.
+ • Creation of views over the tables for report generation.
+ • Transformation of views to tables with the new schema.
+ • Report generation using SSRS as per business rules and client
+ requirements.
+ • Creation of parameterized reports.
+ • Deployment of SSRS reports in client environment.
+Environment: MS SQL Server 2005/2000, T-SQL, Windows 2003 Advanced Server,
+MS Visio 2007, MS SQL Reporting Services and SSIS.
+Towers Erection Software Aug' 2005 -
+Sep' 2007
+Kadevi Engineering Company (P) Ltd., Hyderabad, India
+Developed Erection Software for Kadevi Engineering Company Pvt. Ltd., to
+process various levels in Tower erections.
+Entry Screens Site details, Erection Teams, Escorts, Coordinators, Project
+Managers, Site Surveyors, Transporters, Payment Entries (Regular/Advance),
+Site Shortages and Reworks(Materials)
+Preparing Pre-Schedules By providing Required information (Dispatch
+Durations, Erection periods)
+Generating reports for site wise expenses registers, customer wise expenses
+registers, Escorts and Coordinators registers, Erection team wise
+registers, complete status of all status sites.
+Responsibilities:
+ • Created and modified Stored Procedures, Triggers, Views and Indexes to
+ provide best performance.
+ • Optimized Indexes for better performance using SQL Query Plans at Query
+ Analyzer and Index Tuning wizards.
+ • Responsible for Database Backups & Restoration, Backup strategies and
+ scheduling Backups.
+ • Has done DBCC checks to ensure the physical consistency of the database
+ and objects. Monitored the database to identify the performance issues
+ using SQL Server Profiler and resolved the issues.
+ • Implemented the SQL login security for developers and users
+ • Implemented Data Migration from MS Access.
+ • Created DTS packages to pull data from Oracle and Flat Files.
+ • Involved in planning and monitoring Log Shipping.
+ • Planning, Implementing and troubleshooting Replication.
+ • Created Clustered and Non-Clustered Indexes.
+ • Generated different reports using MS SQL Reporting Services.
+ • Monitoring the event logs and server error logs for troubleshooting.
+Environment: Win 2003 Server, VB.NET, SQL Server 2005, Crystal Reports
+Towers Software Aug' 2005 - Sep'
+2007
+Kadevi Engineering Company (P) Ltd., Hyderabad, India
+Kadevi Engineering Company Pvt Ltd., Manufactures the Towers and Antennas,
+the main aim of this project is computerization with minimum data entry of
+the various Processing Levels in tower manufacturing. Generating the
+reports for the live status of the production Levels.
+Importing Bill of material.
+Creating General Boms, Display Boms, Dispatch Boms
+Live Work status for fabrication and galvanizing
+Raw material requisition
+Dispatch of Tower
+Periodical Work analysis reports for Fabrications and Galvanizing
+Bills generation Weekly, monthly
+Synchronization, Comparison tools to check the production data accuracy
+with model Boms and configurations tool for set the capacities and
+priorities of the fabricators and items for auto allotment of the materials
+to the production
+Alerts for material shortages, pending materials with fabricators and
+galvanizers
+QC analysis reports with graphs representation
+Preparing Quotations and generating Comparative statement for material
+ordering
+Responsibilities:
+ • Involved in Data Administration and Database Design. Created Database
+ Objects like Tables, Stored Procedures, Views, Triggers, Rules,
+ Defaults, user defined data types and functions.
+ • Used the SQL Analyzer and Profiler for studying the SQL statements and
+ procedures.
+ • Perform daily database backup & restoration and monitor the performance
+ of Database Server.
+ • Developed stored procedures to create various reports.
+ • Developed Database Backup Scripts and automated this process
+ • Monitor Databases for lock escalation, dead Lock, resource utilization
+ by sessions, capturing long running SQL queries using SQL Server.
+ • Managing security, which includes monitoring and controlling database
+ access, assigning permissions to application owners.
+ • Involved in Backing up and Restoring of databases.
+Environment: Win 2003 Server, Visual Basic 6.0, SQL Server 2000, Crystal
+Reports
+Sales and Purchases Information System Aug' 2005 -
+Sep' 2007
+Secunderabad Industries, India
+This Project is developed to maintain the accounting & inventory system of
+the company. It deals with Purchase Order, Material Indent, Goods Receipt
+Note, ARGP, Issue Slip, MIR, Credit Note, Credit Back, Dispatch Note and
+Accounting concepts like Payment & Receipt Vouchers,
+Journal Voucher, Invoice, Credit Note, Debit Note, Purchase Bill etc.
+Reports generated for Cash Bank transactions, Journal Entries, General
+Ledger, P.O. Status, Profit & Loss A/c, Trial Balance, Inward Register,
+Outward Register, and Stock Statement and as per the requirement of the
+company.
+Responsibilities:
+ • Involved in Creation Database Objects like Tables, Stored Procedures,
+ Views, Triggers, Rules, Defaults, user defined data types and
+ functions.
+ • Optimized query performance by creating indexes.
+ • Involved in Administration of the SQL Server by creating users & login
+ ids with appropriate roles & grant privileges to users and roles.
+ • Involved in performance tuning of TSQL queries and Stored Procedures.
+ • Developed Database Backup Scripts and automated this process
+ • Write T-SQL statements for retrieval of data and Involved in
+ performance tuning of TSQL queries and Stored Procedures.
+ • Use the SQL Analyzer, and Profiler for studying the SQL statements and
+ procedures
+ • Perform daily database backup & restoration and monitor the performance
+ of Database Server.
+ • Create joins and sub-queries for complex queries involving multiple
+ tables.
+ • Developed Stored Procedures to create various reports.
+Environment: Win2000 Server, VB.Net, Crystal Reports, SQL Server 2000
+

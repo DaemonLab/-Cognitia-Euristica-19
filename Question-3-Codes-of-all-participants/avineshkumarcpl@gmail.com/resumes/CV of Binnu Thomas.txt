@@ -1,0 +1,420 @@
+|[pic] |[pic] |Binnu Thomas |
+| | | |
+| | |tv00001@gmail.com / 1-222-111-1111 |
+| | | |
+Professional Summary
+ • Client focused, results oriented Agile Coach and Scrum Master with
+ over two years’ experience coaching technical and product team.
+ Executed multi-million dollar projects with teams of varying sizes.
+ Over 15 years of spearheading broad range of simultaneous, large scale
+ and complex IT projects
+ • Certified Scrum Master (CSM, 2017) with knowledge on agile methodology
+ and frameworks like Scrum, Kanban and XP. Excellent coaching/mentoring
+ skills to coach team how to follow agile scrum, which really works.
+ Experience in Agile techniques including User Stories, Continuous
+ Integration, Test-driven development (TDD), Acceptance Test Driven
+ Development (ATDD), Continuous Testing, Automated Testing and Agile
+ Games.
+ • Hands on DevOps engineer and Integration/Infrastructure consultant.
+ Implemented end-to-end automated DevOps pipelines for various IBM
+ middleware platforms. Implemented solutions leveraging Docker
+ container technology, UCD plugins or ANT scripts for automation in a
+ Jazz build engine, Jenkins and Bamboo. Strong scripting skills using
+ ANT, UNIX shell scripting. Installed and configured various IBM
+ products in multiple platforms.
+ • Provided training and coaching in Agile Development principles and
+ practices to development teams, Product Owners, Scrum Masters, and
+ program-level leadership. Created and taught 2-day experiential Agile
+ Team Workshop classes. Coached development teams and business users,
+ architects and executive management.
+ • Focused primarily on training the teams to write good user stories,
+ prioritize the work based on business value and handling of the tasks
+ by the team. Placed substantial efforts on team member role training,
+ time-boxing and providing strong metrics for all players
+ • Brought in Agile best practices such as time-boxing, continuous
+ integration, code/design reviews, transparency, accountability, rally
+ tracking, product visioning, technical debt reduction, self-
+ management, empowerment and role training resulting in realized
+ velocity improvement of more than 100%
+ • Performed as Scrum Master for three products and three separate cross-
+ site teams (20+ people), identified process changes required to
+ accelerate development and remove major impediments. In eight weeks,
+ reduced time to ship by approximately 30%. To achieve these results,
+ updated group's processes to conform to Agile Scrum standards
+ • Facilitated Scrum of Scrum calls for four different applications
+ following Agile process
+ • Strong communication skills, leadership, analytical, problem-solving,
+ and management skills and ability to develop inter-personal
+ relationships vertically and horizontally within the organization.
+ Possess a positive mental attitude towards every situation and is a
+ proactive person, a go getter and excels in producing professional
+ documentation.
+ • Solid technical background as Software Engineer, Architect and Systems
+ Analyst. Experience implementing CD & CI (DevOps) in complex setup.
+Career Progression
+ ✓ Prolifics, IBM partner company Program/Project Manager May 2008
+ till date New York, NY
+ ✓ MicroAgility Inc Project Manager Apr 2007
+ – Apr 2008 Plainsboro, NJ
+ ✓ IBM Global Services Tech Lead Jul 2005 – Jan 2007
+ Singapore
+ ✓ Citigroup Project Manager Jan 2001 – Jun 2005
+ Singapore
+ ✓ Temasek Polytechnic System Analyst Nov 1999 –
+ Oct 2000 Singapore
+ ✓ Reuters Analyst Programmer Mar 1999 –
+ Aug 2000 Singapore
+ ✓ CPF Board Analyst Programmer Mar 1997 – Feb 1999
+ Singapore
+Areas of Excellence
+ • Program/project management • Scrum, Waterfall, Agile, PMBOK
+ • Agile Coach
+ • IBM Technology expertise • Installation, Migrations and Upgrades
+ • Integration and Infrastructure
+ • Banking & Finance domain • Healthcare domain • Retail
+ / Govt domain
+ • Partner & Vendor Management • Monitoring & Automation •
+ Scrum of Scrums
+ • Quality Assurance • Solution Architecture •
+ Business Analysis
+ • Trainer and Mentor • Customer Service/Engagement •
+ Financial Oversight & Budgeting
+ • DevOps/ Docker • Continuous Integration / Development •
+ Cloud and cloud services
+Core Skills – Project Management, DevOps, Integration & Infrastructure
+Project Management
+ • Domain Expertise : Corporate & Retail Banking, Finance, Retail,
+ Healthcare, Telecom, Education, Govt Sector, Mortgage
+ • PM Methodologies : Waterfall, RUP, Agile, Scrum, SDLC, ITIL
+ • Organizational Tools : JIRA, Confluence, SharePoint, Salesforce,
+ Rational Team Concert, Google Docs, Documentum, MS Office Suite,
+ Wideband Delphi
+ • Planning Methodologies : Critical Chain Project Management, Critical
+ chain / path, Triple Constraint Theory, Process Improvement
+IBM Platform DevOps
+ • Implemented Prolifics Build Conductor, a ready-to-use automation
+ engine for popular DevOps tools such as Rational Team Concert, Urban
+ Code Deploy or other leading automation engines. Implemented end-to-
+ end automated DevOps pipelines for various IBM middleware platforms.
+ Implemented solutions leveraging Docker container technology, UCD
+ plugins or ANT scripts for automation in a Jazz build engine, Jenkins
+ and Bamboo
+WebSphere BPM, Application Server, Commerce, MQ, IIB & MFT
+ • Conducted Infrastructure analysis and provided recommendations.
+ Installed and configured on various operating systems. Worked with
+ Patches, Upgrades and Migration. Developed scripts to automate
+ configuration and deployment. Performed Infrastructure capacity
+ planning and Performance Tuning. Executed Production Support and
+ troubleshooting.
+Rational Suite of Products – RTC, Rose, ClearCase, CleasrQuest,
+RequisitePro, TestManager, DOORS
+ • Conducted Requirements gathering and planning. Installed and
+ configured the product. Worked with advanced configuration of the
+ process aspects of the platform. Mentored clients and teams. Performed
+ migration from and to various versions. Developed and implemented
+ Automated Build and deployment.
+ • Worked towards delivering solutions for various clients in
+ collaborating requirements management, quality management, change and
+ configuration management and project planning and tracking.
+Other Skills
+ • Smarter Process: Business Process Management, Decision Management,
+ Enterprise content management
+ • Digital Experience: Portal & Web Content Management, Social Business &
+ Collaboration, End-to-End Mobile Development
+ • IBM Products: IBM Cloud, IBM Bluemix, IBM SOA, API Connect, WAS,
+ Connect:Direct, WPS, WID, WMQ / IIB, WMB, WODM / ILOG, WSRR, WXS,
+ Pure, RTC, Data Stage, Data Power, Tivoli, ITCAM / APM
+ • DevOps: Rational Team Concert, Prolifics Build Conductor, Urban Code,
+ Jenkins, GIT, Docker, Chef, Puppet
+ • API Economy: API Portal, API Gateway, API Hosting, API Lifecycle
+ • Java Technologies : Java/J2EE, Java Beans, EJB, JSP, Servlets, JDBC,
+ JNDI, SOAP, RMI, AJAX, Spring, Hibernate, DOJO, JUnit
+ • WebServices: XML, JSON, WSDL, BPEL, SOAP, REST,
+ • Design Patterns : Object Oriented Analysis/Design (OOA/OOD), Model-
+ View-Controller (MVC), Data Flow Diagrams (DFD), Unified Modeling
+ Language (UML)
+ • Solutions: API, B2B EDI, SOA, Data Integration, DevOps, ESB, Mobile
+ • Scripting: Unix shell scripting, Jython, Python, ANT, JACL
+ • App/Web Server : WAS, WebLogic Server, SunOne Web Server, Tomcat
+ • IDE: Rational Application Developer Studio (RAD), Eclipse, WebSphere
+ Studio Application Developer (WASD), Visual Café and Visual Age for
+ Java
+ • Database: Mongo, Oracle, DB2, SQL Server, Informix, IDMS, VSAM, MS
+ Access.
+ • IT Security: Internet Security, Ethical Hack, App Scan, Vulnerability
+ Assessment, Proxy-in-between, PKI Encryption, Certificate management,
+ TCP/IP, NAT, FTP, SSH, HPPTS, SSL
+ • Testing/QA : Mercury Test Director, Load Runner, Bugzilla
+ • Other Technologies : ASP, Connect:Direct (NDM), SQL Windows 3.1/
+ 5.0.4, Centura 1.5, C, COBOL, Easytrieve Plus, CICS, ADSO, JCL
+Professional Experience Details
+ Prolifics – Agile Coach/Scrum Master & Senior Consultant (9 Years)
+ Recruited by premier IBM Partner Company specializing in providing expert
+ information technology consulting services to provide project management
+ over large-scale, top-priority and complex technology initiatives.
+ Managed budgets of up to $8M and cross-functional teams of up to 25
+ developers, programmers, analysts, architects, testers and network
+ specialists.
+ Drove the high-quality completion of systems engineering,
+ software/database development and enterprise wide implementation projects
+ for major clients including.
+ • HealthNow Health Insurance, NY • BJs Wholesale, MA •
+ Two Sigma Investments, TX
+ • Penske Truck Rental, PA • Ralph Lauren Luxury clothing, NY
+ • MassMutual Insurance, MA
+ • TBC Automotive, FL • Stearns Finance & Banking, CA
+ • Herff Jones School services, IN
+ • BCBS Insurance, NJ • Apple Vacations Travel, PA
+ • DOHMH, NY
+ • Pep Boys Automotive, PA • CIC Insurance, OH •
+ Huntington Bank, RI
+ • RBC Bank, NY • BT Telecom, NY
+ Achievement Highlights:
+ • Coached and mentored agile team members and provided constructive
+ performance feedback. Coached teams, Business Analysts, Managers and
+ Executives on Agile manifesto, values and principles to promote
+ continuous improvement in practices and artifacts. Encouraged the
+ team for self-organization to boost the efficiency and coordination.
+ • Facilitated Daily scrum meetings, spring planning, spring review, and
+ spring retrospective. Facilitated Scrum of Scrums for multiple Scrum
+ teams across multiple regions and time zones.
+ • Worked with Product owner On Artifacts Such as Product Backlog, Spring
+ Backlog, Sprint Burndown and Release Burndown. Worked with stake
+ holders, product owners to prioritize the requirements for sprint.
+ Encouraged and enforced the team to come up with reusable elements and
+ use the best practices.
+ • Managed the overall performance and delivery of cross-functional team.
+ Broadcasted the team's progress and successes to make sure they are
+ highly visible to product owner and stakeholders.
+ • Established effective communication for the department with
+ consistency across development and business management. Presentations,
+ recommendations and updates provided regularly to the Director office.
+ Provide visibility to team impediments/risks and helps eliminate them.
+ • Introduced and executed exercises, workshops and games to enhance team
+ building skills, increased creativity/productivity, effective
+ communication, prioritization sizing and estimation.
+ • Custom Software Developments: Managed all phases of the software
+ development lifecycle (SDLC) for dozens of custom solutions. Delivered
+ industry-leading software that saved clients millions of dollars,
+ shortened processes from months and weeks to minutes, captured market
+ share and generated annual revenues after launch.
+ • Systems Engineering: Led design and rollout of robust, scalable and
+ secure Integration solutions, Continuous Integration & Continuous
+ Deployment (CI/CD), Cloud, Analytics/Data warehousing, BPM, Decision
+ management, API and Java systems for various clients.
+ • Program Manager: Established the CORE with formal processes for
+ seamless project and portfolio management, resource allocation, and
+ performance measurement at the intersection of business and
+ technology. Presented to the executive team. Increased customer
+ engagement and drove sales by managing marketplaces and aligning
+ business and IT stakeholders to accelerate delivery of new product
+ features.
+ • DevOps Engineer: Provided solutions for continuous integration and
+ continuous delivery (CI/CD). Developed and implemented automated build
+ and deploy solutions. Documented, mentored and trained teams.
+ Leveraged latest technologies like Docker and cloud to architect and
+ implement solutions.
+ MicroAgility – Project Manager (1 Year)
+ Recruited by one of the leading consulting company to provide services
+ for various projects that required professional project management.
+ Drove the high-quality completion of systems engineering,
+ software/database development and enterprise wide implementation projects
+ including.
+ • Sirius & XM Merger, NYC • Permission TV Migration, MA •
+ Financial Reporting, NHP Insurance, MA
+ Achievement Highlights:
+ • Took charge of critical time bound project in a relative shorter time
+ frame to deliver the project as required by the senior executives.
+ Created and maintained integrated project plans for all the different
+ component teams involved in the project. Worked and coordinated tasks
+ with different teams and departments and escalated the relevant issues
+ to respective people proactively.
+ • Reported and worked directly to the senior executives, CEO, VP/CTO of
+ engineering for product roadmap and client services projects as well
+ as with Director of Infrastructure for all the infrastructure related
+ projects. Executed the infrastructure migration project by maintaining
+ client expectation in terms of SLA by interacting with various vendor
+ teams, local development teams, client services and service provider.
+ • Worked with the marketing team for Product management for the PDK
+ changes, innovations, roadmaps and releases. Created use cases for
+ infrastructure requirements that include BAU, Operational,
+ Synchronization, Automation and Security requirements.
+ • Proposed and executed agile methodology and scrum meetings to the
+ existing processes to meet the rapid and dynamic customer
+ requirements. Conducted daily scrum meetings, got updates from various
+ teams and updated the status regularly to senior management as well as
+ managed risk and issues in the project
+ • Prepared test strategy and lead QA team to create test plans, ensure
+ quality and performance. Prepared and implemented various process
+ changes pertaining to change management, requirements gathering,
+ customer support infrastructure etc.
+ • Drafted proposals for process re-engineering within the organization
+ so that the IT department can adhere to the latest technologies and
+ methodologies. Interviewed various people within the department to
+ understand the roles that they were doing and proposed new team
+ structure that’s required to meet the current technologies and
+ requirements.
+ IBM Global Services, IBM – Tech Lead, Singapore
+ Recruited by IBM Global Services (IGS) to provide technical leadership to
+ local banking client – DBS Bank. Worked for retail banking, core banking
+ projects to provide support and implement enhancements. Worked with new
+ code banking implementation as SME to provide requirements.
+ Provided technical leadership for core projects in Java/J2EE
+ software/database development and enterprise wide implementation projects
+ including.
+ • Check Verification System (CVS) • Negative File
+ Transfer (NX)
+ Achievement Highlights:
+ • CTS/CVS is an image-based check clearing system. Managed people,
+ resources and project in accordance to the contractual obligations
+ between IBM and DBS Bank. Lead project team (customer, internal team
+ and vendors) to deliver integration solution from development,
+ testing, installation to acceptance. Analyzed customer requirements
+ and provided detailed solution design and specification. Ensured
+ solution delivered as per customer requirements, was on time and
+ within budget. Provided on-going support to customer on integration
+ solution enhancements
+ • NX is an intermediate system that stands between loans application and
+ Credit Bureau. Lead project team (customer, internal and vendors) to
+ deliver integration solution from development, testing, installation
+ to acceptance
+ Global Corporate and Investment Banking (GCIB), Citigroup – Project
+ Manager, Singapore (4.5 yrs)
+ Recruited by Citibank’s Corporate banking department to provide technical
+ leadership, project and product management roles for ecommerce project
+ rolled out for the corporate customers across the world in all continents
+ spanning from Australia to Latin Americas.
+ Provided project management and p.
+ • eBilling (B2B gateway) • Payment Interface Management
+ Systems (PIMS)
+ Achievement Highlights:
+ • eBilling is a B2B Gateway, an end-to-end solution for the
+ consolidation, presentment and payment of invoices from multiple
+ suppliers’ organizations. A Platform for suppliers of corporate
+ customers to upload invoices from various sources to the gateway for
+ presentment and payment. The buyers are able to register with the
+ gateway to view and process invoices online. The dispute functionality
+ coupled with the work flow approval capability creates an environment
+ that facilitates efficient delivery, presentment and payment of bills
+ in a secure environment.
+ • PIMS acts as a middle layer between enterprise wide applications
+ (Intranet and internet) and Citibank Backend Core Processing systems
+ (FC, BSI, GFH etc). PIMS facilitate payment processing (Electronic
+ Fund Transfer, GIRO Collections, Direct Debit, and Speed Collect),
+ invoice processing (Wholesale Lock Box) and Credit card processing
+ (Online and Offline). PIMS communicates with both Front-end
+ applications and Backend systems through IBM MQ Series, Sterling’s
+ Connect:Direct and Citibank’s proprietary software SSLXFR (using
+ openssl). PIMS has its own Parameter Driven Services (Java threads) to
+ process the Transaction instructions. Credit card service is a
+ multithreaded process and handles online Credit card Payments. PIMS
+ communicates with different Internet Payment Gateways based on the
+ type/mode of Credit card payment.
+ • Managed and implemented eBilling product for the corporate clients in
+ Asia Pacific, Europe and Latin American Countries. Developed and
+ maintained business models. Worked with marketing team, clients and
+ customers to understand the requirements and incorporated as core
+ product functionalities. Managed people, resources and project in
+ order to ensure successful delivery of complete solutions to
+ customers. Worked closely with the product management to finalize the
+ roadmap and product releases. Promoted the building of good
+ relationships between business, customers and technology
+ • Worked closely with the product testing teams to ensure product
+ quality. Prepared and distributed reports and documents to senior
+ management and other relevant stake holders. Provided mentoring to
+ other team members and end users to enhance skills, business and
+ functional knowledge. Identified risks, prepared risk mitigation plans
+ and executed contingency actions. Investigated and resolved product
+ issues brought up through the customer support, in accordance with
+ agreed processes and Service Level Agreements
+ • Created and maintained Escalation plan. Investigated and resolved
+ product issues brought up through the customer support in accordance
+ with agreed processes and Service Level Agreements. Managed and
+ coordinated Vulnerability Assessment Tests. Implemented and performed
+ High Availability, Performance Tuning, Load Testing and Disaster
+ Recovery for the application.
+ Early Career
+ Temasek Polytechnic – Project Lead (1 Year)
+ • Modular System (Student Financials System Study) •
+ Student Development System (SDS)
+ • The existing Student Billing System was re-developed to cater for the
+ new requirements as well as address the limitations in the existing
+ system. The objective of the project was to study the existing system
+ in detail, document it and identify new functional requirements.
+ • Led the team of 6 persons for the system study. Prepared the tender
+ specifications for Student Financials System. Carefully studied the
+ requirements, scheduled meetings with users and prepared minutes for
+ the meeting. Prepared documentation regarding the existing system
+ • SDS was developed utilizing J2EE architecture, to monitor and track
+ students’ extracurricular activities. The Student Development System
+ allows Student Development & Alumni Division (SDAD) to monitor and
+ track the student population and co-curricular activities (CCA)
+ participation as well as their CCA Award and Achievement. The front-
+ end was designed using JSP and the business logic is written in
+ Enterprise Java Beans (EJB). Servlets acts as the controller to access
+ the data through entity and session beans. The SDS also interacts with
+ other systems like Student Information System (SIS) to access the
+ student information
+ • Utilized JSP, Servlets and EJB(s) to write code for the system.
+ Deployed the EJB(s), developed for the implementation of business
+ logic. Integrated with other subsystems. Tested the system in the
+ local version of WebLogic.
+ Reuters – Analyst Programmer (6 months)
+ • UKI Core Suite Migration
+ • The project requirement was for UK and Ireland, development was done
+ in Singapore. In accordance with the company's desire to adopt
+ administration standards and a single administration system globally,
+ decision was made to migrate the sales order processing system from
+ ISIS (existing Oracle system) to Core suite components (System in
+ Mainframes). All Front Line Business Units (FLBU) with the exception
+ of the UK and Ireland used Core Suite applications to support their
+ business. The purpose of this project was to develop and deliver Core
+ Suite functionality for UK and Ireland.
+ • Prepared Functional, Design and Unit Specifications for the modules.
+ Interacted with users to gather information and analyzed the
+ requirements for UK and Ireland. Carried out coding of various
+ modules. Performed Unit testing, Integration testing, and released the
+ system for User Acceptance Testing (UAT). Updated the project for
+ Reuter’s intranet.
+ Central Provident Fund Board (CPF Board) – Analyst Programmer (2 Years)
+ • MS Revamp • MVS COBOL Upgrade
+ • The project was to revamp the whole system within MIS. It included
+ restructuring of database to accommodate the expanded fields and to
+ cater for the expanded fields in the programs. Modularizing the common
+ functions and cater for Y2K changes.
+ • Managed the progress of subsystems which included MED (Medisave) for
+ the employees medical benefits, SEM (Self Employment) which protects
+ those who are involved in self-employment, PHS (Public Housing Scheme)
+ helps people with housing needs. Developed sub-routines for common
+ functionalities and performed Unit tests of systems that required
+ modifications. Created parallel run environment for the team’s batch
+ applications and conducted and coordinated the integration testing.
+ Ported over the completed applications to production
+ • This project was intended to serve as a step for the conversion of
+ Operating System from MVS/ESA to OS/390. MVS/ESA the current OS on
+ Mainframe was not Y2K compliant and the OS was going to be migrated to
+ OS/390, which in turn did not support OS/VS COBOL and VS COBOL II
+ compilers. The benefits of the migration being Y2K coding
+ capabilities, built in Math functions, Structured Programming, Object
+ oriented extension etc. The first phase of the project was to convert
+ all routines used by the system to MVS COBOL with the help of CCCA
+ utility. The second phase was to convert all batch programs to MVS
+ COBOL. Final phase deals with the online applications.
+ • Developed new Endevor MVS COBOL processors and amended the existing
+ one. Link-edited all OS/VS COBOL and COBOL II programs. Tested MVS
+ COBOL.. Tested selected programs according to the subroutine,
+ frequency of usage and criticality.
+Education
+ • Honors Diploma in Information and System Management (HDISM) – Aptech,
+ 1996, Trivandrum, India
+ • Software Training program on IBM Mainframe (ES9000) - ER&DC, STDC,
+ 1996, Trivandrum, India
+ • Bachelor of Commerce – Kerala University, 1993, Trivandrum, India
+Professional Certifications
+ • Certified Scrum Master (CSM) - (Anticipated: October 2017)
+ • IBM Certified System Administrator (WAS ND v8.5.5 and Liberty Profile)
+ – Aug 2014
+ • Project Management Professional (PMP) – Acelentia Consulting, 2007,
+ Trivandrum, India
+ • I-Expert (Java, Oracle DBA, CCNA) – Informatics, 2005, Singapore
+

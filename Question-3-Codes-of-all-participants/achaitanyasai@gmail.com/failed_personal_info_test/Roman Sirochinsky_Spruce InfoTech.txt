@@ -1,0 +1,97 @@
+Roman Sirochinsky 
+ Roman Sirochinsky 
+SUMMARY:
+Agile Project Manager / Scrum Master / Scrum Coach with over 15-year experience in the financial services, banking, regulatory and E-Commerce industries
+Passionate about delivering a defect-free, valuable, working and user-friendly software 
+Exceptional understanding of the software delivery process, how to plan and drive projects to completion in various SDLC methodologies including various Agile flavors and Scrum
+Expert in building working relationships with business stakeholders, managing expectations and maintaining transparency
+Extensive business, technical, and teaching background enables leading and motivating cross-functional, co-located and offshore teams
+Notable record of delivering over 30 complex & challenging assignments for multiple clients in various industries on time and on budget
+BUSINESS KNOWLEDGE:
+Financial Services industry, Capital Markets and Fixed Income securities
+Trade Lifecycle, Electronic Trading Platforms, Banking
+Credit, Market & Operational Risk Management, Private Wealth Management
+Regulatory Compliance: FINRA, SEC, DTCC, DFA, BASEL II
+PROFESSIONAL EXPERIENCE:
+SAM Consulting Services, New York, NY									 2014 -till date
+Project Manager / Agile & Scrum Instructor / Corporate Scrum Coach
+Provide Project Management consulting services to corporate clients 
+(details of the specific consulting projects are listed below)
+Developed curriculum in Requirements Management, Agile and SCRUM 
+Conduct in-class and client-site corporate training in:
+Agile Project Planning, Execution and Reporting
+Continuous Integration and Continuous Delivery
+Automation Testing and Test Strategy
+Prepare students for the SCRUM certification exams
+Balyasny Asset Management, New York, NY 							 01/2018 - 04/2018 
+Scrum Coach, Consultant, Middle and Back Office Large Scale Initiatives 
+Performed Current State Assessment for the Software Delivery organization
+Interviewed SMEs, Business and IT managers to elicit impediments
+Developed an Assessment Score Card with recommendations
+Developed IT Work Intake workflow and framework in JIRA
+Conducted on-site training for Business and IT managers, Scrum Teams, Project Managers, Business Analysts, and Operational SMEs
+SafeHeaven, New York, NY / Barcelona, Spain 05/2015–07/2017 
+Scrum Master, Consultant
+Managed implementation of the Continuous Integration (CI/CD) framework supporting SDLC of the custom high-frequency trading platform. Budget $5MM
+Conducted on-site team training in JIRA, Scrum, SDLC and CI Framework
+Coordinated daily activities of the CI Vendor team, representing client’s interests
+Supervised integration of tools to support: IAAS, PAAS, Versioning, Requirements Management, Automated Testing, Defect Management and orchestration layer
+Served as a Single Point of Contact between Business Stakeholders and Dev Team
+Managed in-house development of enhancements to Market Data Repository, Algo Analyzer, Trader Command Dashboard, Back-testing Tools, B/D Fee Reconciliation Tools, FIX Engine library and secure communications tools
+Conducted Backlog Grooming and Sprint Review meetings with Product Owners
+Conducted Daily Scrum and Retrospective meetings with the Development Team
+Identified priority of requirements, dependency, development and testing efforts
+Planned each Sprint according to the Dev Team Time Box and Business Priority
+Managed product roadmap, budget, risks & issues resolution utilizing JIRA, Confluence, Zephyr and HipChat
+Project Manager/Scrum Master, Consultant, E-Commerce domain 			 01/2014 –05/2017
+www.SittersGlobal.com; www.MyTrustedPro.com
+Provided leadership, guidance and strategic direction on project governance, project management, process standardization and SDLC execution 
+Managed multiple Development Teams utilizing Scrum and Agile methodologies 
+Developed Comprehensive Project Plans and Project Governance
+Conducted regular Status/Progress meetings with Stakeholders and Daily Scrums
+Managed Dependencies, Non-functional requirement, Risks and Issues 
+Full Business Analysis support on client’s projects
+Requirements Management from gathering to Change Management
+Managing client’s relationship and expectations thru SDLC, conducting UAT 
+BNP Paribas, Jersey City, NJ									 09/2012 – 12/2013
+Project Manager, Consultant, PMO Fixed Income IT
+Responsible for the end-to-end FINRA compliance project related to 15C3-3 capital reserve calculation and the end-of-month FOCUS Report submission
+Project involved decommissioning legacy system, integration of the new vendor product, developing new business workflow and executing FINRA acceptance test
+Broadridge Financial Solutions, Inc., Jersey City, NJ						 01/2012 – 08/2012
+Project Manager, Consultant, Fixed Income Division
+End-to-end project ownership on four conversion and development projects for the MBS Expert (MBSE) and impact systems
+Morgan Stanley Smith Barney, New York, NY						 02/2010 – 12/2011
+Project Manager, Consultant, Global Wealth Management
+Developed and executed AGILE road map for the development of a new Customer Statement after the Smith Barney – Morgan Stanley merger
+Bank of Tokyo, Jersey City, NJ 04/2009 -12/2009
+Project Manager, Consultant, PMO
+Coordinated implementation of SalesForce.com in the US 
+Deutsche Bank, New York, NY									 04/2008 -03/2009	
+Project Manager, Consultant, Institutional Sales, Marketing and Distribution
+Managed entire project to integrate vendor Tax Lot level position online reporting
+JP Morgan Chase & Co, New York, NY								 05/2007 -04/2008	
+Project Manager/BA, Consultant, Global Credit Risk Management IT
+Managed delivery team of 40 to migrate legacy Letter of Credit Approvals System 
+Various Consulting Engagements							 11/2004 -04/2007
+Citigroup, Global Risk Managements – Enterprise Credit Approval Workflow
+Bank of America, Equity Derivatives Trading – STP Back Office Workflow
+Lord-Abbet, Privately Managed Accounts – Invoicing and Billing Reconciliation
+Dexia Group, FI investments – BASEL II compliance 
+Bank of New York, New York, NY									 1998 - 2004	
+Project Manager / System Analyst, AVP, Enterprise Client-Server Applications
+Managed the team of 10 to support Client-Server and Intranet applications
+Commercial Credit
+BASEL II Compliance
+Corporate Trust
+Office of the Secretary
+Lockheed Martin, Yonkers, NY										 1996 –1998
+System Analyst
+Developed software for plains and programs to test the systems
+C++, VBA, SQL
+EDUCATION & CERTIFICATIONS:
+International Scrum Institute-Certified Scrum Master-2017
+Morgan Stanley Internal Training, New York, NY-2010
+SCRUM Training
+Agile methodologies
+Masters in Management of Technology, GPA 3.9 from Polytechnic Institute of NYU, New York, NY -O9/2007-01/2009
+B.S. in Computer Science. Dean’s List from Polytechnic University, Brooklyn, NY-09/1991-06/1996

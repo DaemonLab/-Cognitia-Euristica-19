@@ -1,0 +1,7 @@
+In Problem 3, by using concepts of regular expression i have extracted
+phone number and email-ids.
+For exttraction of phone number it is assumed that phone should be in ddd-ddd-dddd format where
+d is any digit between 0 and 9.
+Similarly email id is extracted as described in source code file.
+
+* For source code please refer to problem3.py file

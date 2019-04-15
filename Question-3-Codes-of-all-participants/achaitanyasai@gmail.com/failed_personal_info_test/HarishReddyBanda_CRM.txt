@@ -1,0 +1,234 @@
+Harish 
+PH: (470) 800-5518 
+Email: reachharish3@gmail.com
+SUMMARY:
+10 plus years of experience with Microsoft Technologies in all phases of Software Development Life Cycle including gathering requirements, estimation, analysis, design, development, implementation, testing and maintenance of Web based applications using .Net Framework.
+Good experience in developing applications in 3-tier and N-tier architecture, Service Oriented Architecture (SOA), Model-View Controller (MVC).
+Experience in Microsoft CRM Domain and specialized in MSCRM 2015, MSCRM 2016 online.
+Strong experience in developing applications using .Net Framework 4.6/4.5/4.0/3.5, Visual Studio 2015/2012/2010/2008/2005, SQL Server 2014/2008/2005/2000, C# 5.0/4.0/3.0, Asp.Net, Asp.Net MVC 5, IIS, Web Services, Windows Communication Foundation(WCF), Web API, Entity Framework , LINQ, JavaScript, JQuery, HTML 5/4, CSS 3/2, Bootstrap.
+Worked with BI tools in creating SSIS Packages using Visual Studio 2008, 2012 and 2017.
+Strong experience in developing, deploying and implementation of applications on web servers such as IIS 6.0/IIS7.0/IIS7.5 /IIS8.0.
+Expertise in creating database tables, Schema, Stored Procedures, Triggers, Views, Indexes and optimizing queries for performance using SQL Server 2014/2008/2005.
+Good working experience in developing complex business logics and frameworks using Design Patterns.
+Good experience in understanding full Software Development Life Cycle (SDLC) and Agile Methodology.
+Professional Experience:
+Currently working as a Technology Lead in Infosys Limited, Atlanta USA from May 2012.
+Worked as a Senior Software Engineer in Navayuga InfoTech -- Jan 2011 to May 2012.
+Worked as a Software Engineer in India Softima Services Pvt Ltd -- June 2009 to Dec 2010.
+Worked as a Jr Software Engineer in Next Click Solutions Pvt Ltd -- Sep 2007 to June 2009.
+Education & Certifications:
+Master of Science in Computer Science from Osmania University in the year 2007.
+Microsoft Certified Application Developer for C#.Net and ASP.Net MVC
+TECHNICAL SKILLS: 
+Programming Languages 
+C#.Net, VB.Net, VB 6.0
+Development Tools
+VS 2005/2008/2012/2015/2017 , Toad 9, Harvest, TFS , VSS and Mgmt Studio 2005/2008/2014/2017
+.Net Frameworks
+Framework 2.0, 3.0, 3.5, 4.0 and 4.5
+CRM Products 
+MSCRM 2015, MSCRM 2016
+Operating Systems
+Windows NT/XP/Vista, Windows Server 2000 /2003/2008/2012
+Web Technologies
+ASP.Net,ASP.Net MVC 5, Ajax ,HTML, XML, Java Script, Jquery, ,WCF, Web Services, Bootstrap
+Web server
+IIS 6.0,IIS7.0,IIS 7.5,IIS 8.5
+RDBMS
+SQL Server 2000/2005/2008/2014, Oracle10g.
+Source Control 
+VSS ,TFS ,Harvest
+Project Details
+Project 
+Clienteling Application
+Role
+Lead Consultant
+Technologies
+Microsoft Dynamics CRM 2015 Online, Visual Studio 2012, C#.Net.
+Duration
+May 2017 TO Till Date 
+Client
+Williams Sonoma Inc.
+Williams-Sonoma, Inc. is the premier specialty retailer of home furnishings and gourmet cookware in the United States. This project aimed at implementing a solution that automates the capture and retrieval of client information, as well as integrates with existing applications to leverage available corporate data.  All of which enables store associates to focus on contacting customers at the right time with relevant information.
+ 
+The development team is involved in developing the solution using MS CRM 2015 XRM platform. Application is designed to performance effective and supports approximately 10000 users and has interface with multiple legacy systems. Also uses a shared mailbox concept in CRM platform using Microsoft Office 365 (O365)
+Responsibilities: 
+Design System Architecture & Software Architecture.
+Develop data design & integration.
+Design, development, testing & deployment activities for the planned release for all the .net and CRM applications.
+Worked on development, configuration and extension of Microsoft Dynamics CRM.
+Worked on Plug-ins, Customizations and Workflows.
+Developed the WCF Services and Unite Tested for MS CRM CRUD operations using CRM SDK.
+Developed Complex Plug-ins
+Worked on CRM integration with .Net application.
+Analyze the requirements, impact analysis, prepare the HLD & LLD documents.
+Proficient in leading the teams and guiding them to resolve design and technical problems.
+Worked on customizing and configuring Dynamics CRM entities, forms, views, attributes, , Sitemap, ribbon customizations as per business requirement.
+Implemented user interface using ASP.NET, HTML, JavaScript, CSS and Web Forms.
+Worked on Custom Reports, Portal to interact with CRM and Data Migration.
+Worked on CRM administrative activities like Installing CRM, Deployment and configuring e-mail routers etc.
+Worked on Security, Hierarchy, Roles and Web service design and development.
+Design UI screens and implement the changes as per the requirement.
+ 
+Project 
+ABBMSCRM
+Role
+Lead Consultant
+Technologies
+Microsoft Dynamics CRM 2015 Online, Visual Studio 2012, C#.Net.
+Duration
+June 2016 TO April 2017 
+Client
+ABB
+ABB is one of the Top European Multinational Power Equipment Manufacturing Companies decided to implement a Microsoft Dynamics CRM based opportunity management system. Client needs a single logon point for users to interact with customized CRM package integrated with different legacy servers. Client has five different Business Units globally integrated with our application.
+ 
+Authorization is heart of the application where each registered user has different privileges on different entities. Users create opportunities with all business required data which are shared with different users and Teams according to the business requirement. This application involves complex iframes and plug-ins with best tuned performance and quality.
+Responsibilities: 
+Worked closely with business analyst to know the requirements and Requirement analysis for different enhancements.
+Created/Reviewed Technical Design Document based on business requirements and functional documents.
+Implemented Data Migration and Data integration.
+Customizing the Sales Module, implemented CRM Solutions, plugins, Workflows and CRM Entity Customizations. 
+Design, development, testing & deployment activities for the planned release for all the .net and CRM applications.
+Worked on development, configuration and extension of Microsoft Dynamics CRM.
+Worked on Plug-ins, Customizations and Workflows.
+Implemented the WCF Service to share the CRM Data with External System. 
+Worked on customizing and configuring Dynamics CRM entities, forms, views, attributes, Dashboard charts, Sitemap, ribbon customizations as per business requirement.
+Implemented user interface using ASP.NET, HTML, JavaScript, CSS and Web Forms.
+Design UI screens and implement the changes as per the requirement.
+Project 
+Fixed Income Reports and Extracts
+Role
+Technology Lead 
+Technologies
+Asp.Net , C#.Net,ADO.NET, VS 2015,SQL Server2014, Windows Server 2012
+Duration
+Sep 2015 TO May 2016
+Client
+SunTrust Bank
+Fixed Income Reports and Extracts is .net web application and it is mainly used for generating the fixed income reports. This application generates excel reports, PDF reports, delimiter reports. Using this app user can configure the reports, Schedule the reports. Admin can assign reports to the users based on user name/report name. Application also provide the features called sales person maintenance, Trade Advice Search and manage revenue fee
+Responsibilities: 
+Worked with business analyst to know the exact requirements to design the application.
+Working as single developer at client , Requirement gathering plus Application development using ASP.Net and SQL Server 2014
+Migrated the application from .Net framework 3.5 to .Net framework 4.6 ,Windows Server 2012 ,IIS8.0
+Developed/Reviewed Server side programming with Asp.Net, C#.Net and Client side programming with JavaScript, J Query.
+Developed/Reviewed Database programming with SQL Server 2014 i.e. Creating Tables, Stored Procedures, Functions, Views, Cursors and Triggers etc.
+Conducted Application demos with Line of Business to get the review comments.
+Monitoring, reviewing, debugging, deploying and configuring the application. 
+Developed deployment instruction documents, implementation plan and other process related documents.
+Supported to the server engineers and DBA to deploy application in production servers.
+Implemented MSDB SQL job synchronization on high availability group of multiple instances of databases in sql server 2014
+Project 
+Internal Trade Analysis System
+Role
+Technology Lead 
+Technologies
+Asp.Net MVC5, C#.Net, Entity Framework, VS 2012,SQL Server2008, Windows Server 2012.
+Duration
+April 2015 TO Aug 2015
+Client
+SunTrust Bank
+Internal Trade Analysis prohibits banking entity engaging in proprietary trading or from acquiring or retaining an ownership interest in, sponsoring, or having certain relationships with a hedge fund or private equity fund subject to certain exemptions. Internal Trade Analysis System is web based application developed to allow users to view trading information from centralized trade repository from different sources. 
+Responsibilities: 
+Worked with LOB and business analyst to know the exact requirements to design the application.
+Created/Reviewed Technical Design Document based on business requirements and functional documents.
+Working as a team lead at client , Requirement gathering plus Application development using ASP.Net MVC5 and SQL Server 2008
+Developed/Reviewed Server side programming with Asp.Net MVC5, C#.Net and Client side programming with JavaScript, J Query.
+Developed WCF Service to get real time trade Information. 
+Developed/Reviewed Database programming with SQL Server 2008 i.e. Creating Tables, Stored Procedures, Functions, Views, Cursors and Triggers etc.
+Conducted Application demos with Line of Business to get the review comments.
+Monitoring, reviewing, debugging, deploying and configuring the application. 
+Developed deployment instructions, implementation plan, other process related documents and support to the engineers to deploy enhancements.
+Project 
+Wealth Management System
+Role
+Technology Lead 
+Technologies
+Asp.Net, C#.Net, Ado.Net, VS2008, SQL Server2008, Windows Server 2003 and 2008
+Duration
+Nov 2012 TO March 2015
+Client
+SunTrust Bank
+Wealth Management System is web based application developed to allow users to view trust account information. Wealth Management System is currently used by internal wealth institutional investment solutions, back office teammates, External wealth institutional solutions clients, External investment managers and consultants. 
+Responsibilities:
+Worked closely with business analyst to know the requirements and Requirement analysis for different enhancements.
+Created Proof of Concept for the complex Requirements to reduce technical risk.
+Prepared project estimation from design to implementation phases.
+Created Technical Design Document based on business requirements and functional documents.
+Involved in development for the different enhancements for Internal and External application.
+Developed Server side programming with Asp.Net, C#.Net and Client side programming with JavaScript, JQuery.
+Developed Database programming with SQL Server 2008 i.e. Stored Procedures, Functions, Views etc
+Involved in fixing security Vulnerabilities and performance issues of Internet Application.
+Mentoring the junior developers of the team.
+Monitoring, reviewing, debugging, deploying and configuring the application. 
+Perform performance optimizations on .NET frameworks.
+Design applications based on identified architecture and support implementation of design by resolving complex technical issues faced by the IT project team during development, deployment and support.
+Interact with Clients to elicit architectural and non-functional requirements like performance, scalability, reliability, availability, maintainability.
+Supported to the ETO testers, CAT Users and PLT users to test application.
+Developed deployment instructions, implementation plan, other process related documents and support to the engineers to deploy enhancements.
+Conducted sessions to production support teams and line of business to explain new functionality
+Project 
+Collateral Valuation Application 
+Role
+Developer
+Technologies
+Asp.Net, C#.Net, Ado.Net, VS2008, SQL Server2008, Windows Server 2008
+Duration
+May 2012 TO Nov 2012
+Client
+SunTrust Bank
+Collateral Valuation Application is used to periodically check and confirm the value of collateral used to guarantee loans. Collateral may take the forms of stocks, bonds, part or all of a brokerage account or Trust account, etc. As the value of stocks and bonds changes over time, collateral could have insufficient value to margin the original loan amount which requires a system to evaluate its worth frequently. 
+Responsibilities:
+Participate in business, system requirements session and Requirement analysis of an application.
+Created Technical Design Document based on business requirements and functional documents.
+Developed Server side programming with Asp.Net and C#.Net using Visual Studio 2008.
+Created Master Pages, Web User controls and Ajax implementation in ASP.NET web forms.
+Define RDBMS models, schemas and database programming with SQL Server 2008.
+Design applications based on identified architecture and support implementation of design by resolving complex technical issues.
+Unit Testing the Application and Bug Fixing and Enhancements based on change request.
+Provide assistance to testers and support personnel as needed to explain the functionality.
+Responsible for performing data investigation to assess problems associated with the application.
+Conducted sessions to production support teams and line of business to explain new functionality
+Project 
+Site Information Management System
+Role
+Developer
+Technologies
+Asp.Net, C#.Net, Ado.Net, VS2008, Oracle 10g, Toad 9
+Duration
+JAN 2011 TO APRIL 2012
+Client
+Navayuga Engineering
+SIMS is Web Based, Online, Enterprise Level application that connects all Project Sites and Offices of Navayuga Engineering Company (NEC) to manage the day to day functionalities. The application is designed with customizable work flows to manage the daily activities and provides various MIS reports for Project Manager to Top Management roles for better decision making and better control.
+ Responsibilities:
+Involved in Requirement gathering and Requirement analysis of an application.
+Created Technical Design Document based on business requirements and functional documents.
+Developed Server side programming with Asp.Net and C#.Net using Visual Studio 2008.
+Created Master Pages, Web User controls and Ajax implementation in ASP.NET web forms.
+Java script Programming for Client side functionalities.
+Developed Database programming with Oracle 10g.
+Review, to the extent possible, changes in code and the environment that will affect system performance.
+Unit Testing the Application and Bug Fixing and Enhancements based on change request.
+Provide assistance to testers and support personnel as needed to explain the functionality.
+Document code consistently throughout the development process by listing a description of the program, and any changes made in database.
+Responsible for performing data investigation to assess problems associated with the application.
+Project 
+Kaps12 Job planner
+Role
+Single Developer
+Technologies
+Asp.Net, Vb.Net, Ado.Net, SqlServer2005, windows server 2003
+Duration
+NOV 2009 TO DEC 2010
+Client
+NPCIL
+Job planner site especially designed for KAPS employees. Here the main objective is superiors monitoring the jobs allotted by them to subordinates and monitoring the tasks of subordinates how those tasks are going to be completed. The Allotted person can see the job status at any time. After completing the job there is a chance of revert back also. All the persons who have rights to access that job can write remarks to that job.
+Responsibilities:
+Involved in Requirement gathering and Requirement analysis of an application.
+Created Technical Design Document based on business requirements and functional documents.
+Developed class libraries, server side programming with Asp.Net and Vb.Net using Visual Studio 2008.
+Java script Programming for Client side functionalities and Ajax Implementation.
+Created Master pages, Web User controls and used in ASP.NET web forms.
+Implemented Web service Application and used in application.
+Developed Database programming with SQL Server 2005.
+Testing the Application and Bug Fixing and Enhancements based on change request.
+Provide assistance to testers and support personnel as needed to explain the functionality.

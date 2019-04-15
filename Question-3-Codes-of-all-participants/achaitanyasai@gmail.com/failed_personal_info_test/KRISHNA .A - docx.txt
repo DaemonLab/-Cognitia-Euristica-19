@@ -1,0 +1,221 @@
+Sr. Hyperion Lead Consultant		
+KRISHNA ANNAMANENI
+(248) 294-1005
+Krishna.a60@outlook.com
+SUMMARY:
+		Over 10+ years of professional experience in which around 8 years of experience in design, analysis, development and implementation of various applications in client/server environment using Hyperion system analytics services such as Hyperion Planning 11.x/9.x, Essbase 11.x/9.x client and server tools (Hyperion Essbase, excel add-in and smart view) Hyperion system BI+ tools Hyperion Financial Reporting (HFR), FDQMEE, Account Reconciliation Manager (FCM/ARM) and Shared Services. 
+		6+ years of experience into development where actively involved in requirements gathering, creating out lines, calc scripts, data forms, business rules, menus, task lists, etc.
+		4+ years into Production support where actively involved in providing support to the Hyperion applications, performing data loads, resolved the user issues etc.
+		8+ years into Administration and Infrastructure where actively involved in installation and configuration of Hyperion Products (Hyperion Essbase, Planning, Hyperion Financial Management, FDQMEE, ARM), User provisioning, Assigning access to users, Security updates etc.
+		As a Technical Lead always helped the team members and guided them to perform the assigned task on a day to day basis. 
+		Strong understanding of business requirements in the Hyperion Planning & Essbase environment, dense and sparse strategy dimension allocation, performed dynamic calculations, developed, reviewed, and optimized report queries.
+		Generated monthly/quarterly financial reports using Hyperion Financial Reports and Hyperion Essbase Spreadsheet Add-in. 
+		Experience in Integrated Oracle EBS to the HFM/Planning/Essbase applications using FDMEE   as the ETL tool. 
+		Extensively worked on ARM (Account Reconciialiation manager).
+		Extensively involved in designing and modifying the outlines for Essbase Cubes. 
+		Developed  FDMEE integrations for data flow from EBS to HFM, ARM and EssBase. 
+		Set up locations, control tables and import formats for  FDMEE configured users and access rights in FDMEE.
+		Involved in creation of  FDMEE data load process for loading data into Planning and Essbase applications from various data sources.
+		Managed numerous Data entry forms, Business Rules for several applications.
+		Worked with Hyperion Planning in developing web-based forms for the various budgeting and forecasting purpose.
+		Migrated the applications between the environments by using LCM.
+		Strong experience in all phases of developing plans/scripts, testing including defining user acceptance criteria, documenting the excepted results, execution of scripts, validation actual scripts.
+		Strong understanding in Essbase Cube Analysis, Design and Maintenance, familiar with Essbase BSO/ASO, optimizing dimension building and data loading.
+		Strong Understanding of dense and sparse strategy dimension allocation, calculation scripts, developed, reviewed, and optimized report queries.
+		Involved in writing custom Essbase calculations scripts, automated the Essbase Cubes using MaxL, Esscmds and Batch Scripts.
+		Developed FDMEE integrations for data flow from Flat files to Essbase. 
+		Engaged in implementation of planning application, relational database & DSN, plan type, analytic database, shared services, business rules, and web data entry form design.
+		Thorough understanding of multidimensional and relational database architecture and their applications for effective planning, budgeting, strategizing and forecasting procedures
+		Designed and developed Planning applications.
+		Developed web forms for data entry of forecasting and planning cycles.
+		Developed complex business rules in planning applications. 
+		Skilled in Automation, Optimization and Performance Tuning of Essbase application data/metadata processing, upgrading, testing and migrating of cubes in different environment.
+		Designed and developed backup and restoration procedures. 
+		Experience in interacting with business users at various levels and converting the requirements into technical specifications.
+		Excellent technical communication skill, analytical and strong inter-personal skills and good documentation skills. Team player capable of working independently, motivated and quick learner.
+TECHNICAL SKILLS:
+OLAP Tools
+Hyperion System 11.x/9.x, Hyperion Essbase 11.x/9.x , Excel Add-In, Hyperion Planning 11.x/9.x , Smart view for office, Hyperion Financial Management, Financial Reporting, Account Reconciliation Manager (ARM)
+RDBMS
+Oracle 10g/9i/8x,SQLServer 2005/2000,Toad 8.0, SQL Loader, 
+Teradata, MS Access.
+Operating Systems
+Windows Server, Windows 95/98/2000/NT/XP/Vista, UNIX
+Dimensional Modeling
+Star schema, Snow Flake Schema, Fact and Dimensional tables, Logical and Physical Data Modeling
+ETL Tools
+DataStage7X, Informatica 7.1,Oracle data integrator, FDQMEE
+PROFESSIONAL EXPERIENCE:
+Inventiv Health, Somerset, NJ							Sep 2017 - Tilldate
+Hyperion Consultant
+Description: 
+Inventiv is an American multinational, and one of the largest contract research rganization(CRO), based in Burlington, Massachusetts.It is a wholly owned subsidiary of inVentiv Holdings Group based in Somerset, New Jersey. The company provides services to the pharmaceutical, biotechnology and medical deviceindustries, including consulting, clinical studies and market launch. The global CRO constitutes the inVentiv Health Clinical, the inVentiv Health Commercial, the inVentiv Health Consulting, and the Adheris Health.The company is spread across U.S., Europe, Japan, China, Korea and India.
+Responsibilities:
+		Involved in gathering of requirements from business users.
+		Extensively worked on Hyperion Planning and HFM applications. 
+		Developed web forms for data entry of forecasting and planning cycles.
+		Prepared templates for achieving quarterly forecasts, annual budget, ad-hoc reporting and management reporting by working with the business managers
+		Created Financial Reports using Oracle Hyperion Financial Reporting Studio.
+		Schedule the batch scripts to run the reports automatically.
+		Supporting the end users on client install issues, tracking the issues with Incident management tickets.
+		Monitoring the current production environment servers for performance and stability.
+		Worked closely with other teams in fixing the issues
+Environment: Hyperion Planning, Essbase, FDM, HFM, Smart View, HFR & EPMA 
+All Scripts, Raleigh, NC 								Mar 2016 –July 2017
+Hyperion Sr. Technical Lead
+Description:
+Allscripts Healthcare Solutions, Inc. is a publicly traded American company that provides physician practices, hospitals, and other healthcare providers with practice management and electronic health record technology. Allscripts also provides solutions for patient engagement and care coordination, as well as financial and analytics technology. The company has more than 180,000 physician users and has solutions in 2,700 hospitals and 13,000 extended care organizations.
+The pupose of the AFR Project is to deliver the Financial reports and highly formatted management reports to higer management and Stake holders using Hyperion FR Studio. 
+The aim of the AARM project is reduce risk by providing real-time visibility into the performance of reconciliations and ensuring that all reconciliations prepared are properly qualified.
+Responsibilities:
+		Involved in gathering of requirements from business users.
+		Extensively worked on Hyperion Planning application. 
+		Involved in design and development of ASO and BSO cubes to support Planning, Forecasting and Reporting.
+		Developed web forms for data entry of forecasting and planning cycles.
+		Developed complex business rules in planning applications.
+		Developed Task lists and Workflows in Hyperion planning for the users.
+		Prepared templates for achieving quarterly forecasts, annual budget, ad-hoc reporting and management reporting by working with the business managers
+		Created Financial Reports using Oracle Hyperion Financial Reporting Studio.
+		Created Groups and assigned the users to the groups in Shared Services, assign the access to the users.
+		Schedule the batch scripts to run the reports automatically.
+		Developed the data load rules in FDQMEE to load the Planning and ASO cubes.
+		Set up locations and import formats for  FDQMEE configured users and access rights in FDQMEE.
+		Create the new Mappings in FDMEE as per the requirement.
+		Supporting the end users on client install issues, tracking the issues with Incident management tickets.
+		Upgraded the Hyperion from 11.1.2.2.300 to 11.1.2.2.500 in UAT and PROD environment
+		Installation of Hyperion products (Hyperion Essbase, planning, FCM/ARM) on new servers of 11.1.2.4 for DEV, UAT and PROD.
+		Migrate the Hyperion applications from 11.1.2.2 to 11.1.2.4 via Life cycle management between the environments Migrated Hyperion Planning , FCM / ARM, FR from 11.1.2.2 to 11.1.2.4
+		Created new profiles in ARM and assign access (Preparer, Reveiwer and to the new Profiles and change the access for old profiles.
+		Open the Period in ARM and FDQMEE and load the GL data from EBS to ARM. 
+		Performed Sanity check once the applications were migrated.
+		Supporting the end users on client install issues, tracking the issues with Incident management tickets.
+		Monitoring the current production environment servers for performance and stability.
+		Worked closely with other teams in fixing the issues
+Environment: Hyperion Planning, Essbase, Account Reconciliation Manager (FCM/ARM), FDQMEE, Smart View, HFR & EPMA 
+Thermax, Dartmouth, MA 								Aug 2014 – Dec 2015 
+Hyperion Technical Lead
+Description:
+Thermax Inc. is part of the Thermax Group, a leading global company specializing in the areas of energy conservation and environment preservation. The company provides integrated solutions in Absorption Cooling, Chemicals, Boilers and Heaters, Captive Power and Water and Waste Solutions. 
+ 	Operating on the principle of 'Sustainable Business Solutions for Business Improvement', Thermax is one of the few companies in the world that offers sustainable, green solutions in Energy and Environment management. With its broad spectrum engineering expertise in cooling, chemicals, heating, power and water and waste management, 
+Responsibilities:
+		Involved in gathering of requirements from business users.
+		Installed and configured the Hyperion tools on Development Environment
+		Extensively worked on FDMEE to integrate the data from EBS to HFM
+		Created the Import Format, locations and Period Mappings
+		Created Dataload mappings and Data Load rules to load tha data.
+		Load the TB’s data into HFM using FDMEE
+		Involved in design and developing web forms using HFM tool.
+		Created a  Data Grid and trained the users how to identify which cell is not calculated/locked and is preventing the lock in subsequent periods. Once identified, how to perform the necessary calculation/translation/consolidation, then lock. 
+		Created users and groups and assign access to the users in HFM and FDMEE and maintain the user security.
+		Developed Financial Reports using Oracle Hyperion Financial Reporting Studio
+		Prepared the installation and configuration document for further reference.
+		Prepared the User Manual and given training to all the users.
+		Documented the configuration issues.
+Deliver the Complex Financial Consolidation 
+Supporting the end users on Data loading , consolidation issues. Tracking the issues with Incident management tickets.
+Supported in Month End closing process and TB Load , mapping issues.
+Consolidation of Financial statements at legal entity and divisions
+Segment Reporting, MIS reporting, ICP elimination
+Ad-hoc analysis and reporting
+Integration with the source system without human intervention
+Environment: Hyperion Financial Management, FDMEE, Smart View, HFR & EPMA 
+Sears Holdings Corporation, Chicago, IL 						Feb 2011- May 2014
+Hyperion Technical Specialist
+Sears Holdings Corporation is a leading integrated retailer focused on seamlessly connecting the digital and physical shopping experiences to serve our members - wherever, whenever and however they want to shop. Sears Holdings is home to Shop Your Way, a social shopping platform offering members rewards for shopping at Sears and Kmart as well as with other retail partners across categories important to them. The company operates through its subsidiaries, including Sears, Roebuck and Co. and Kmart Corporation, with full-line and specialty retail stores across the United States.
+The aim of the project is develop the StorePlanning application for Planning, budgeting and Forecasting purpose. And develop the Finacial reports using FR studio. 
+Responsibilities:
+		Extensively involved in gathering of requirements from business users and developing a project plan, designing documentation and testing strategy for management reporting.  
+Design and created Planning application and dimensions as per the requirement.
+Involved in design and developing web forms using Hyperion Planning tool for the users to input Planning and Budget data.
+Created the Business rules for the application using graphical interface.
+Implemented the security at web form level, dimension level and member level
+Developed Business Rules to Support the Web forms. 
+Implemented application security process, created users/groups, security profiles and application access to different groups using filters. 
+Created the user understanding document and given training to the user on the planning application and web forms.
+Developed and Maintained Financial Reports using Oracle Hyperion Financial Reporting Studio. 
+Responsible for designing, maintaining, calculating cubes, and front end reports (Financial Reporting) 
+Optimized outline structure, loading and calculations through appropriate dense and sparse settings of dimensions, storage allocations and by dynamic calculations and debugging 
+Optimized cache settings, established user security, managed applications migration, established substitution variables and settings for asynchronous processing, editing / validating scripts 
+Optimized the applications to bring down the runtime and database size considerably.
+Performed optimization using Hour glass design technique, during Dataloads and while calculating. 
+Developed Batch files and Rules files to upload data from financial systems database to Essbase cube 
+Used various types of Calculations such as Dynamic calc, Two-Pass Calc, Intelligent calc for Outline Calculations. 
+Complete support (24X7) for 30 applications which include BSO cubes and ASO cubes.
+Responsible for performance monitoring, backup and recovery 
+Created the partitions for loading the current and historical data from existing Essbase cubes
+As a lead maintained the team, assigned the work to the team members and helped in them in the work.
+Involved in creation of timelines for the project, and achieved those time lines of the project.
+Successfully delivered the project and get sign off the document from business.
+Environment: Hyperion Essbase11.1.2, 11.1.1.3, Hyperion Financial Reports, Hyperion Planning 11.1.1.3, Smart View, MAXL, Linux. 
+Limited Brands, Columbus, OH 							Apr 2010 – Nov 2010
+Hyperion Consultant			
+L Brands Inc. (formerly known as Limited Brands Inc and The Limited Inc.) is an American fashion retailer based in Columbus, Ohio.
+Its flagship brands include Victoria's Secret and Bath & Body Works. L Brands posted $10.5 billion in revenue in 2013, and was listed as #258 in the 2013 Fortune 500 list of top companies.
+The purpose of the project is creating new Hyperion Planning Application and migrate the HAL routines in to ODI (Oracle Data Integrator).All the data is coming from Flat Files and Oracle database and loading into planning using ODI.
+Responsibilities:
+Worked with business analysts for gathering requirements, functional specifications, testing strategies and developing a project plan.
+Maintained Hyperion Planning system and assisted in administration consolidation of monthly financial information.
+Created and managed numerous Data entry forms and Created many Business Rules for several applications.
+Developed a Design Document for the Hyperion Planning Implementation as per the signed off requirement Document.
+Worked with a team to provide Hyperion Essbase, Hyperion planning, and Hyperion Reports solution.
+Extensively used Essbase Integration Services (EIS) for building dimension.
+Automating the cubes using MaxL statements and running it through UNIX shell scripts.
+Wrote Calc Scripts used for cube aggregation and calculations.
+Developed and modified Excel Templates for user interface in Essbase database. 
+Involved in creating rules file for dynamic dimension builds and data loads.
+Installed and configured ODI tool on Development, QA and Production Severs.
+Created the interfaces based on the business requirement.
+Extensively worked on Physical and Logical Agents.
+Created the Scenarios and Packages in ODI Designer.
+Extensively worked on job scheduling and done the automation.
+Enhancing existing Hyperion Planning application.
+Creating functional specifications for system interfaces.
+Testing new system functionality and data interfaces.
+Implementation of new applications and enhancements into production.
+Environment: Hyperion Essbase 11.1.1.3, Hyperion Financial Reports, Hyperion Planning 11.1.1.3, Smart View, MaxL, Redhat Linux. 
+Global Financial Reporting, EA, CA 						May 2008 – Feb 2010
+Sr. Hyperion Developer 
+Responsibilities:
+Developed Block Storage Cubes (B.S.O) cubes using Oracle Essbase system 
+Extensively involved in designing and modifying the outlines for Essbase Cubes. 
+Developed Calc Scripts and Report Scripts.
+Created and managed numerous Data entry forms, Business Rules for several applications.
+Developed batch files using MaxL and ESSCMDs and rule files to upload data from system’s database to Essbase cube.
+Hyperion Planning was used in testing of the new calculation scripts and to define business rules to match the needs of the users.
+Environment: Hyperion Essbase, Hyperion Planning , Hyperion Financial Reports, Excel Spread sheet Add in, Smart view, Oracle 10g.
+TechMahindra Ltd, India 								Sep 2006 to Jan 2008
+Router Activation Platform
+Scope:	RAP is one of the OSS components of the BT broadband service.
+It is the Service Activation and Provisioning software for the BT Broadband network. It accepts orders from other systems to perform operations on a network element. For eg., lets consider a 
+case where a Broadband service has to be enabled for a user. The end user will place an order through either a telephone call to the call center. The call center people then make an entry into ECO. ECO then passes the details (provide order in this case) to Flow Stream. FlowStream passes the order down to RAP. RAP is the lowermost component in the software stack (as can be seen in the picture below) that helps accomplish broadband service provisioning for BT Wholesale. RAP deals only with IPStream products. RAP receives work orders from various interfaces and performs the configuration tasks
+Responsibilities:
+	Involved as a key team member for Requirement Analysis during the design phase and interaction with the client.
+	Data modeling, database design and creation of database using data modeling tools (Creation of Data Flow diagrams and Entity Relation Diagrams using Erwin).
+	Data base was normalized up to 3NF.
+	Data loaded into database tables using SQL*Loader.
+	Maintained the data integrity and security using integrity constraints and database triggers.
+	Optimized and enhanced the existing procedures and SQL statements for the better performance.
+	Defining and reviewing the coding standards, besides reviewing the code.
+	We developed applications that used JAVA and Oracle technologies. 
+	Developed & tested Stored Procedures, Functions and Packages as per requirement from project specification.
+	Extensively used complex Views, Synonyms, JOINS and Sub-Queries, Cursors, Ref Cursors, Exceptions.
+	Created the necessary indexes to improve the query performance.
+	Extensive Use of Bulk Binds, Bulk Collect.
+	Extensive Use of Pragma Autonomous Transactions.
+	Created, Tested, debugged, and modified stored procedures, triggers, tables, views, user-defined functions etc.
+	Adding constraints, updating and altering tables according to the changes in the design document.
+	Involved in Writing Backend Packages extensively in PL/SQL in UNIX Solaris environments.
+	Executing the scripts and inserting data into the tables.
+	Extensively Involved in Preparing Detailed technical documents from the functional specifications.
+	Involved in Code Reviews and preparing unit test cases.
+	Preparation of Checklists, identification of Test Cases, preparing Test Plans.
+	Perform database exp/imp to setup identical databases in the production and development environments.
+	Create Unix shell scripts and cron jobs for generating reports at end of the day. 
+	Exporting data from Development Server to Testing Server, Production Server.
+	Separating of tables and indexes on different locations. Reducing Disk I/O Contention etc. Applications Tuning of Database using EXPLAIN PLAN, TKPROF, SQL TRACE, ANALYZE, HINTS etc. Oracle query tuning and optimization.
+	Creating the shell scripts for automating the process.
+	Prepared Test Plans, Test Cases for testing applications in forms and reports.
+Environment: Unix Shell Scripting, Oracle PL/SQL, SQL Server
+EDUCATIONAL QUALIFICATION:
+Master of Computer Applications form Kakatiya University (1999-2002), India
+Bachelors commerce from Osmania University (1996-1999), India

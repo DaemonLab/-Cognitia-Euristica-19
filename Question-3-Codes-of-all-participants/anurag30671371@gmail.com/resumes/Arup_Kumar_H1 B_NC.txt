@@ -1,0 +1,231 @@
+Arup Kumar 
+888-111-1234
+arupkumar00001@gmail.com 
+	Summary:
+19+ Years of IT industry experience including eleven years onsite in encompassing a wide range of skill set, roles and industry verticals. 
+14+ Years extensive experience in Dot Net web base application development with C# and ASP.Net. Knowledge in Enterprise Architecture tools like Sparx EA and Troux Transformation Platform. 
+Extensive experience in design and development of applications using.NET and Web technologies like XML, CSS, Ajax, JavaScript and HTML in n-tier architecture. 
+Expertise in .NET framework with great proficiency in creating applications using WinForms, WebForms, ASP.NET, C#/VB.NET, ADO.NET, XML,  AJAX toolkit, Cascading Style Sheets (CSS), JavaScript, WCF,  IIS7.0,  SQL Server 7.0 / 2000 / 2005 /2008/2014, LINQ, and Visual Studio.NET.
+Experience in CRM Dynamics and sharepoint office 365.
+Have worked on Azure platform implementing COTS applications on VM using both the classic and resource manager for management and deployment.
+Extensive experience with analysis, design, development, customizations and implementation of software applications including ERP applications. 
+Design and development of front GUI pages in web Forms
+Have a great deal of experience in writing in C#, LINQ, ASP.NET, ASP.NET MVC, SQL Server and VB.NET.
+Used C#.Net for Serialization and Generics for integrating with the tool for XML file generation.
+Core competence in version control tools, including MS VSS, Serena PVCS, MS Team Foundation Server (TFS), Bamboo and Stash (Bit bucket).
+Design and development on databases using SQL Server 2005/2008. Developing Reports using SQL Server Reporting Services (SSRS), SQL Server Integration Services (SSIS). Developing SSIS packages and designing ETL processes
+Experience in leading and managing teams. Handled multiple roles - Project Lead, Software Architect, Developer, System Analyst, and System Admin.
+Executed software projects for Product, Healthcare, Communication, Banking and Utilities industry Executed project on CRM Dynamics and Azure implementation.
+Customize ETL packages for XML data pursing, manage ETL application manager task control, proprietary schema of data warehouse, manager catalogs and data flow streams
+Created several ASP.NET pages using ASP.NET, C# ,ADO.NET, LINQ, SQL Server 2008
+Created WCF services and communicated them with JavaScript to display certain information
+Developed the Front End (Application Tier) with ASP.NET Web application using C#.Net
+Designed, configured and developed the GUI web application using ASP.NET, C#.NET, VB.NET, JavaScript, and CSS, Flex .
+Proficient in analyzing and translating business requirements to technical requirements and architecture.
+Strong database skills, Object Oriented Programming and development knowledge using architecture and design patterns for loose coupling and high cohesive solutions
+Technical Skillset:
+Languages
+.Net, C#.Net, VB.Net, AJAX, ASP, VB6, HTML, JavaScript, CSS, VB Script, PL/SQL, XML, XSLT, OOAD,MVC
+Frameworks/Patterns
+MVC, Angular JS, React JS, Knockout
+Source Safe Tools
+TFS, VSS, Dimension, Changeman, Bamboo/Stash
+Tools:
+Visual Studio.Net (2005/2008/2010), SSIS, ADO.Net, OLE DB/ODBC, COM, MQ Series, VSS, TFS, Cruise Control, Nunit, PVCS, QTP, Mercury, Telerik/Infragistics. Share Point 2010
+Testing Management 
+Rational Clear Quest, Radar, Quality Centre, JIRA
+Design IDE:
+Visual Studio 2005/2008/2010, Visual Studio Team System, MS Visio.
+Database
+MS SQL Server 2000/2005/2008, Oracle 10&11g, MS Access.
+Industries
+Telecommunication, Banking, Energy and Utilities, Healthcare, Assurance, Tax and Advisory
+Professional Experience:
+ 
+Lifetime Fitness, Minneapolis, MN Jul’17-Tilldate
+.Net Lead/Architect
+Project: Digital Workspace
+Arup as a Team Lead managed the project on the CRM, Electronic Guest Registration (EGR) and SharePoint domains. Arup was member of the Project team defining story points and assigning to team members. Arup as a Developer have created SSRS reports on the different client application metrics.
+Responsibilities: 
+Participating in daily sprints to discuss about the work done and future assignment.
+Coordinate with Data Warehouse team in the ideation and prioritization of integration tasks.
+Leading the planning in converting SSIS packages to Mulesoft transformations.
+KT sessions to team members on EGR application functionality.
+Design, code, and test technical solutions, including unit testing.
+Customize and fix defects on Dot Net MVC for Electronic Guest Registration project.
+Converted the integration test project in Xunit from MS Test.
+Coordinate with Business team, BAs, Project managers and clients to understand the requirements and validate the BRDs.
+Research and prototype for new concepts and technologies.
+Scoping and estimating implementation efforts required based on available information.
+Designing solutions and documents the architecture diagrams and get approved from PM/Client.
+Developing details design/flow diagrams for complex solutions.
+Develop applications using C# .Net, CRM Dynamics, SQL Server and other relevant technologies when required.
+Supporting BI and Analytical teaming on developing SSIS packages to provide required data into analytical tables.
+Supporting QA team to come up with test cases.
+Creating and presenting monthly status reports about ongoing projects and production issues.
+Maintaining and monitoring Production servers.
+Managing offshore technical team.
+ Understand project expectations as communicated by the Solution Architect and/or Technical Director on the project.
+Environment: Dot Net Framework 4.6, ASP.Net 3.5, C#, SQL Server, Visio, SSRS, SSIS, Bamboo, Stack, JIRA, Angular, Node.js, SharePoint, CRM, Azure functions, Azure PaaS
+	E&Y, Alpharetta, GA Aug’16-Jun’17
+.Net Lead/Architect
+Project 1: Global Time and Entry
+Arup as a Team Lead and Application Engineer was responsible to make sure the development team worked as per the framework and client standards. Responsible for creating packages, canned and adhoc reports. Managed regular builds and getting reviewed with client technical and business team.
+	Responsibilities: 
+Responsible for design and development of Web User Interface using ASP.Net and Middle tier layer business objects using C#.Net.
+Used ADO.Net namespaces and classes and created Data Access components to access database.
+Created classes and methods in C#.NET using OOP Concepts.
+Created, Configured and deploying network-distributed web services using WCF and ASMX.
+Extensively build SOA architecture in the application with TDD.
+Involved in LLD and LLR review.
+Played a major role in communicating with the Offshore team
+Extensively used AJAX, J-Query and JSON to pull the data asynchronously.
+Coordinated with DBA for creating stored procedures, function, Triggers using T-SQL.
+Created Database and Database Objects like Tables, Stored Procedures, Views and Triggers.
+Involved in writing and fine tuning SQL Query’s.
+Involved in performance tuning SQL queries.
+Utilized TFS for version control.
+Interacted directly with the clients for resolving production issues.
+Provided 7 x 24 application support.
+Tools & Environment: Dot Net Framework 4.5, ASP.Net 3.5, C#, SQL Server, Visio, TFS, BIDS, SSDT, Report Builder 3.0
+Project 2: eDiscovery Oct’15-Jul’16
+Application Architect
+Arup as a Technical Architect is responsible to make sure the development team works as per the framework and client standards. Responsible for integrating the different environments of eDiscovery and other downstream applications.
+	Responsibilities: 
+Gathering requirements, reviewing processes systems design / architect and development.
+Working as Lead and architect to design various modules, helping other developer.
+Responsible for developing ASP.NET Pages.
+Created WCF services to be used by other verticals in the company.
+Written various business classes using c#.
+Implemented Factory patterns for designing business objects.
+The front-end screens were developed using ASP.NET.
+C# is the language used as the code behind for ASP.NET pages.
+Wrote complex queries, stored procedures.
+Used team foundation system to tack history change and task management.
+ Involved in Unit (Peer Testing), System Testing.
+Used Ajax concept to build rich UI experience.
+Coordinating with infrastructure architect to deploy Relativity and Nuix on Azure Virtual machines.
+Worked on Azure Portal and also with PowerShell to create and manage systems.
+Worked with the Devops team on deployment strategies with Chef.
+Worked with the Security Architect to ensure the application is secured and compliant to corporate security standards.
+Environment: Dot Net Framework 4.5, ASP.Net 3.5, C#, SQL Server, TFS, SharePoint 2013, Angular JS, Windows, Unix, Azure, Relativity, Nuix, Brainspace.
+	Project 3: Hextreme-Survey Product Jan’15-Oct’15
+Application Architect
+Arup as a Technical Architect was responsible to create the architecture for customizable and extensible Survey Product which would enable its widespread use in different portfolios and accounts as a reusable domain application. The driver for the initiative is to build a customizable survey module to extend the survey functionality for the OGS, BICS, oneTRAC and GARAMS client applications. The survey product would be built to have the options being used on desktop, laptop and mobile browsers.
+Responsibilities: 
+Provide technical expertise in identifying, evaluating, and developing effective procedures and systems requirements that meet business requirements.
+Participates in discussions with customers to gather scope information and performs analysis of scope information in order to provide inputs for project scope documentation.
+Participate in estimation, staffing analysis and solutions in order to provide inputs for preparing solution delivery of the proposal.
+Train team members on project processes and provide inputs on process tailoring and quality goals in order to finalize project quality plan. 
+Create an ASP.NET MVC framework with AngularJS and Kendo UI as the front end.
+Create a RESTful WebAPI service to interact with Active Directory. Publish it as external service for any third party consumers.
+Consume RESTful WebAPI service to the ASP.NET MVC controllers. 
+Run Code ReSharper, StyleCop, and FXCop to make sure that the code quality is attained.
+Create scheduler jobs using Windows Service to do a hard delete of terminated users.
+Fixed the penetration and fortify scan issues. This involves cross site scripting, SQL injections, preventing creation of frames etc.
+Environment: Dot Net Framework 4.5, ASP.Net 3.5, C#, ASP.NET MVC 5, Angular JS, RWD, Kendo UI, C# 5.0, Active Directory Systems, RestfulWebAPI, Windows Services, TFS, IIS, SQL Server, Visio, TFS, Angular JS
+	Project 4: Revenue Recognition Readiness Jun’15-Dec’15
+	Application Architect
+Arup as a Technical Architect was responsible to make sure the development team works as per the framework and client standards. Responsible for regular builds and getting reviewed with client technical and business team.
+	Responsibilities: 
+Provide technical expertise in identifying, evaluating, and developing effective procedures and systems requirements that meet business requirements.
+Implemented SharePoint advanced search features to the site. Improvement user search experiences by adding new features.
+Implemented Meta data management and Taxonomy.
+Created record center and enterprise content management system to the site.
+Enabled theme by feature stapling concept. Also designed the web parts as per the layout requirements.
+Implemented complex SharePoint designer and custom work flows. 
+SSRS integration to the SharePoint site.
+Integrated existing active directory of customer’s firm to the site.
+Transitioning knowledge base to new technical team on SharePoint 2013 and Angular JS.
+Environment:ASP.NET 4.0, C# 4.0, Sql Server Integration Services, Sql Server Reporting Services, Java Script, MS SQL 2008, SQL Server, Visio, TFS, SharePoint 2013, Angular JS
+	National Grid, Boston, MA Nov’11-Jun’15
+.Net Solution Architect
+Project: Design Optimization (Energy & Utilities)
+Arup as an Application Architect was responsible for Analysis, design, development, testing and implementation of various projects encompassing client in house and hosted solutions mapping to various environments. Implemented multiple projects like Rubber Goods tracking application, mobile device upgrade.
+	Responsibilities: 
+	Understanding the client requirements by studying functional document.
+	KT sessions to team members on application functionality.
+	Involved in the preparation of test data.
+	Identified test requirement and checked if the test cases were complete to test the business functionality.
+	Review of the Scripts and suggesting modification in the scripts.
+	Executing the scripts and reporting the bugs through defect tracking tool.
+	Reporting to the onsite coordinator about the status of the test activities on a daily basis.
+	Interacting with the onsite people and resolving the offshore issues.
+	Attended weekly status meetings and provide detailed status report to the client.
+	Responsible for Architecting solutions to our customer in the Energy and Utility sector using design tools and submitting rationale to the Enterprise Architects (EA) on Architectural decisions.
+	Designed network firewalls and implemented security policies to use a vendor product as SaaS. 
+	Carried out cloud implementation proof of concept on IBM Bluemix platform.
+	Responsible for Architecting the SOA system to complete the transition of some lines of business. As a condition of the Business Transformation, IBM developed a Service Oriented Architecture (SOA), Strategy and Planning, Proof of Concept, and established a Center of Excellence (CoE). 
+	Implemented service interface and service gateway patterns.
+	Designed two Dot Net solutions for equipment inspection and control room logging respectively. The Dot Net based components were implemented on web server using MVC pattern and configured with SMTP and AD servers.
+	Restful API (web service) were used to improve performance avoiding SOAP overheads since the data returned by the web service were not dynamic in nature. The REST service made the consumption of the XML content much easier for existing HTML pages. This required hardly any refactoring of the web site architecture.
+	Responsible for delivering enterprise solution taking into account enterprise goal and limitations.
+	Implemented RADIUS ISE service for the mobility application for the devices on host Windows 7 Standard Operating Environment with business core applications on guest Windows XP virtual machines as they are not compatible to 32/64 bit operating system.
+	Implemented F5 load balancer for the device management servers in cluster.
+	Deliver new and complex high quality solutions to clients in response to varying business requirements representing the as is and future system as applicable.
+	Responsible for managing scope, planning, tracking, change control, environment, performance aspects of the project. 
+	Responsible for effective communication between the project team and the customer. Provide day to day direction to the EA.
+	Translate customer requirements into formal requirements and design documents, establish specific solutions, and leading the efforts including programming and testing that culminate in client acceptance of the results.
+	Utilize in-depth knowledge of domain and Technical experience in different leading-edge products and technology in conjunction with industry and business skills to deliver solutions to customer.
+	Establish Quality Procedure for the team and continuously monitor and audit to ensure team meets quality goals.
+Environment: Windows, AIX, Dot Net, SQL, Oracle, Enterprise Architect, Dot Net Framework 4.5, ASP.Net 3.5, C#, Oracle 10, 11g, SQL Server, SAN, LPAR, Virtualization, SaaS
+	Duke Energy, Charlotte, NC Oct’06-Nov’11
+.Net Solution Architect
+Project: Design Optimization (Energy & Utilities)
+Arup as an Application Architect was responsible for Analysis, design, development, testing and implementation of customized Microsoft Dot Net and GE Small World solutions for new implementations and upgrades for IBM customer.
+	Responsibilities: 
+	Responsible for leading a project team in delivering solution to our customer in the Energy and Utility sector using Smallworld for GIS application development.
+	Responsible for leading a project team in delivering solution to our customer in the Energy and Utility sector using Informatica transformation tool to manage the Data Hub.
+	SSIS was used for data migration for the HR consolidation project. The project team managed the SSIS packages through BIDS (Business Intelligence Development Studio).
+	Deliver new and complex high quality solutions to clients in response to varying business requirements.
+	Responsible for managing scope, planning, tracking, change control, environment, performance aspects of the project. 
+	Utilize in-depth knowledge of functional and Technical experience in Microsoft Dot net and other leading-edge products and technology in conjunction with industry and business skills to deliver solutions to customer.
+	Establish Quality Procedure for the team and continuously monitor and audit to ensure team meets quality goals.
+	Led the integration and enterprise architecture effort for LDS project built in Dot Net web applications that resulted in rebuild and re-platform the mainframe based labor distribution systems. 
+	Global Information System was a transformation project where worked as Technical Solution Architect for creation of the Data Hub and Microsoft Report along with client Data Architect. The data hub vision document and overview diagram was developed which describes how the SQL Server Data Hub would be divided into staging, ODS and Data Ware House. The design proposed was to extract data from Small World Version Managed Database (VMDS) to Staging Database. The ETL solution was a complex design with multiple concurrent streams of data loading and scheduling. This data transformation challenge was met with quick ramp up of experienced ETL developers. In this scope along with my Architect role performed project manager role in scheduling and tracking the tasks so that the combined effort led to successful implementation on time and in budget.
+Environment: Windows, AIX, Dot Net, SQL, Rational Clear Quest (Defect Tracking Tool), Serena (Configuration Tool) Windows2000, Visual C#.Net, ADO.Net, XML, Microsoft Reporting Services, SQL Server 2008, DB2, Smallworld, Informatica
+Wachovia Bank, Charlotte, NC Aug’05-Sep’06
+	.Net Developer
+	Project: Design Optimization (Banking)
+	Arup was responsible for design and review as an Application Architect for the applications in Retail banking domain where individual customers use local branches of larger commercial banks. The application maintenance and enhancement scope covered savings and checking accounts, mortgages, personal loans, debit cards, credit cards, and so forth.
+	Responsibilities: 
+	Involved in preparing and executing the test cases.
+	Executed test cases and test data to validate requirements.
+	KT sessions to team members on application functionality.
+	Participating in regular status meetings.
+	Work with Business Analyst in translating business requirements into Functional Requirements Document and to Detailed Design Documents.
+	Supported and developed shared service Dot Net web base applications.
+	Lead analysis sessions, gather requirements and write specification and functional design documents for enhancements and customization; Analyze product impact.
+	Present and defend product designs and architecture to clients.
+	Coordinate and communicate tasks with developers. 
+	Ensure that development is performed as per requirements.
+	Work with QA to create test scripts and scenarios for enhancements and customizations to the core product.
+	Communicate activities/progress to project managers, business development, business analysts and clients. 
+	Develop implementation and test plans, build software acceptance criteria, coordinate and work with clients to oversee the acceptance and dissemination process. 
+Environment: Dot Net, Windows 2003, Microsoft Visual Basic 6,Microsoft C#.Net, ADO.Net, XML, Actuate Reporting, SQL Server 2000.
+	Telstra Telecommunication, India Jun’04-Jul’05
+	.Net Developer
+	Solution and Wholesale domain was involved with requirement analysis and design phases; developed use case models, UML class diagram and sequence diagram. Participated in project planning, scheduling, risk mitigation and customer coordination.
+	Responsibilities: 
+Involved in preparing and executing the test cases.
+Executed test cases and test data to validate requirements.
+KT sessions to team members on application functionality.
+Participating in regular status meetings.
+Work with Business Analyst in translating business requirements into Functional Requirements Document and to Detailed Design Documents. 
+Supported and developed shared service Dot Net web base applications.
+Lead analysis sessions, gather requirements and write specification and functional design documents for enhancements and customization; Analyze product impact. 
+Was involved in the quality process of Metrics collection and logging defects in Radar tool.
+Was responsible for generating the monthly metrics for Executive review.
+Designed and developed classes to maintain Privacy Logging information and Service Level Agreement information. Application configuration was maintained in XML files. ADO.Net based classes used for maintaining the transactions and data transfer.
+Environment: Dot Net, Windows 2000, AIX, SQL Server 2000 Windows2000, Visual C#.Net, ADO.Net, XML,C++,Pro C, Visual Basic 6, SQL Server 2000, Unix and Oracle 8
+Worked on Symphony Product in Dell International Services from February 2003 to May 2004.
+Worked on Max Health scribe product in Max Ateev Limited from February 2001 to February 2003.
+Worked on POCs in Matrix Info Systems from July 2000 to January 2001.
+Worked as a Deputy Manager in Bhilai Steel Plant from July 1989 to May 2000.
+	Education & Certifications:
+	Bachelors of Engineering in Computer Science, 1989.
+	Microsoft Certified Solution Developer.
+	IBM Certified SOA solution designer.
+	TOGAF 9.
+	IBM Accredited Application Architect.
+	 Resume of I.A. Baskar		 	Page 1 of 5

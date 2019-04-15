@@ -1,0 +1,249 @@
+Gangadhar Vasan 
+SUMMARY:
+My professional passion is dedicated to helping people live and breathe Agile & Scrum values, principles and practices! 
+PM/Flow Manager/Senior Scrum Master with over 9+ years of experience and overall 16+ years of experience in Software Technology with PMP, PMI-ACP, PSM II®, CSM, PSPO, SAFE Scaled Agilist, SASM, ICAgile Certified Professional, Six Sigma Green Belt and ITIL® certified. Well versed with and practiced the PMI – PMP, ACP processes in Projects and experience working with groups, teams and organizations that use Waterfall and Agile for delivering full life-cycle projects. 
+Have unique blend of technical skills and expertise and proven leadership in managing multi-million-dollar enterprise level projects, both from an IT and business perspective, automating existing vendor product tools to reduce manual effort, thereby reducing operational cost and maximizing ROI.
+Delivered mission critical, high traffic web-based projects with a responsive design for regular web, mobile and tablet platforms, mobile app projects for Telecommunications/ Healthcare/Mfg/Retail/Financial Services/Insurance/Pharma and Consumer industries, Infrastructure upgrade projects with high visibility.
+Proficient in the application of agile software development methodologies in the development of robust systems that deliver true business value. Strong proponent of mentoring and lifelong learning.
+Experience working with executive leadership, business stakeholders, product owners, product managers improving process, thinking strategically and building teams with excellent measurable and valuable business results, out of which 5+ years in managing Agile/Scrum model of SDLC, leading projects from Initiation phase to closing phase. Extensive sponsor and customer interface experience in the development and delivery of business requirements.
+Administered the role of Scrum Master and having expertise in conducting Backlog refinement, Sprint planning, Daily Scrum, and Sprint Review Meetings when using Scrum Methodology. Successfully implemented changes to Business Processes, Systems and Technology, Job Roles and Organizational Structure. 
+Supervised more than 3 Scrum Teams at a time and ensuring that team's success and progress are highly visible to Product Owner and Stakeholders. Managed Project Backlogs, release scheduling, project duration estimation and forecasting. 
+Strong experience (8 Years) in working with agile lifecycle, and/or tracking, and process management tools like Rally and JIRA. Extensively used Rally for maintaining User Story Hierarchy, Backlog Grooming, Updating Tasks, Planning Iterations and Releases.
+Helping the organization, teams and individuals to adopt an enterprise-wide scaled Agile framework combining Scrum, Kanban, Extreme Programming (XP), Lean the Spotify Agile model and The Lean Startup methodologies
+Ensured engineering practices like Continuous Integration, TDD (Test Driven Development), automated testing and Pair Programming. Also involved in creating and reviewing test plan and test cases; manual testing and conducting User Acceptance Testing. 
+TECHNICAL SKILLS:
+Analysis Technologies
+Agile methodology, Waterfall methodology, Cost-Benefit Analysis, Risk Analysis, Gap Analysis
+ERP Application
+SAP R/3, SAP Business Objects, SAP NetWeaver, SAP ECC 6.0, EHP6, SAP Net weaver 7.1, 7.3 with EHP1, 7.4, BI, Solution Manager 7.0, 7.1
+ETL Tools
+SAP BODS
+Operating Systems
+MS-DOS, Win 95/98/NT/2000/XP/Windows 7/8 Linux, UNIX
+Defect Tracking Tools
+Jira, Confluence, Rally, Version One, TFS
+Business Modelling Tools
+Share point, Microsoft Visio
+Reporting Tools / Dashboard
+Xcelsius, Crystal Reports, MS-Project, Project Server
+Data Bases
+SQL, SQL Server, Oracle, SQLITE
+Languages
+C, C++, SQL, QT(GUI), .Net 4.0, Java, J2EE, Webservices, PowerBuilder, salesforce
+Debugging Tools
+Lauterbach, gdb, Source Insight, Digi-debug
+Workflow tools
+MS-Excel, MS-PowerPoint, MS-Word
+Project Management
+Microsoft Project, PMBOK, PMP, PMI-ACP, Visual Studio
+Agile
+Kanban, Scrum, Scrumban, RUP, FDD, ATDD, TDD, Rally, Kanban, Extreme Programming (XP)
+PROFESSIONAL EXPERIENCE:
+Johnson & Johnson, IOT – Internet of Things NJ	 				 Nov 2017 – Till Date
+Senior Scrum Master/ Kanban Flow Manager
+	 
+Responsibilities:
+Working as a Sr. Scrum master/Kanban Flow Manager for six Teams. Provided coaching to new team members. Performing additional role of Technical Project Manager and handling end to end delivery of multiple projects.
+Working closely with the Stakeholders to understand the business requirements, timelines &amp; delivery.
+Defining the project goals / objectives, critical success factors, milestones and estimated risks.
+Ensure the development teams are practicing the core Agile principles of collaboration, prioritization, team accountability and visibility.
+Assisting the customer as needed with backlog maintenance for scrum teams.
+Assisting with internal and external communication, improving transparency and radiating information.
+Assisting scrum teams with the methods to prioritize and resolve defects/bugs.
+Assisting team with making appropriate commitments through story selection and task definition.
+Lead the development and maintenance of team standards, tools and best practices.
+Assisting in the identification and removal of impediments for scrum teams.
+Facilitate discussion and conflict resolution.
+Empowered the scrum teams to self-organize.
+Track and communicate team velocity and sprint/release progress 
+Produce project reports to Sponsor, Steering Committee and Management team through specified communication (Meetings, Dashboards).
+Project status conveyed on a weekly basis via Status reports to all stakeholders, and Issues list tracked on a weekly basis to close open items or report new ones.
+Ensuring project compliance as per the defined process with respect to audit findings
+Proactively manage risks by identifying Risk triggers and issues to ensure the delivery of the projects on time, within budget and with high quality. Applying Risk Management practices to mitigate/avoid project Risks.
+COMCAST, Chicago, IL 								 Aug 2016 – Nov 2017
+MVPD – Multichannel Video Programming Distributor			 
+Senior Scrum Master
+Products working: Central billing, Cable post, Auto pulse, Promotions allocator and production issues.
+Responsibilities:
+Facilitating Daily scrum meetings, Backlog grooming, sprint planning, sprint review, and sprint retrospective. 
+Working with Product owner On Artifacts Such as Product Backlog, Spring Backlog, Sprint Burn down, and Release Burn down.
+Contributed greatly to increases in code quality and productivity through leadership and guidance in areas such as Test/Behavior Driven Development, Refactoring, Pair Programming (Extreme Programming/XP), and Agile Estimation and Planning
+Participate in Scrum of Scrums to coordinate and facilitate projects where there are multiple dependencies
+Radiate information and ensure that team's progress and successes are highly visible to all stakeholders, including the team itself.
+Assisting Product owners with various activities including communicating updates and impediments as well as with backlog grooming and release plan maintenance.
+Passionate about Scrum and helping organizations realize their agile potential. Building effective Scrum teams.
+Responsible for all facets of Scrum adoption and transformation while driving ongoing aggressive Scrum software development schedule.
+Solely responsible for developing and delivering training on Agile and the Scrum framework to Software Engineering and Product management Teams (team size: 12).
+Collaboration with Product Management in strategic release planning.
+Team Velocity Improvements
+Adherence to scrum best practices
+Distributed scrum teams and Remote scrum teams
+Johnson & Johnson, Skillman, NJ 								 Jun ‘15 – Aug 2016
+Enterprise Tru Enovia - PLM
+Senior Scrum Master
+The Enterprise trū (Product Lifecycle Management) Program is a transformational, multi-year, enterprise-wide initiative designed to provide the single source of truth for product information, prevent recalls and, as a consequence, improve patient safety, customer experience, brand reputation and Trustmark. The trū Program will design and deploy lean processes like Specifications, Bill of Material, Change Control, Document Control, Device History File, Device Master Record, and Stage Gate to coherently manage the core product information across all business segments.
+Responsibilities:
+My job role requires Agile facilitation, communication skills, creative and technically savvy. I am responsible for leading development process, managing multiple projects from initiation through post-launch, relationship management with clients, and directly communicating project status with clients, team members, and executive leadership. 
+Advocated and taught Agile (scrum) processes to ensure that the team is always following the framework. Tracked and communicated sprint/release progress via information radiators. Ensured the development team is practicing the core agile principles of collaboration, prioritization, team accountability, and visibility.
+Introduced, drive and continuously improved team delivery via technical best practices such as automated testing, refactoring, pair programming, test driven development, and continuous integration. Participated proactively in developing and maintaining team standards, tools, and best practices.
+Worked with JIRA Project Owners to review, triage, and prioritize all new Jira items into corresponding queues and escalate issues and update stakeholders as appropriate. Own JIRA issue tracking tool, including workflow customization and reporting. Produced and communicated Sprint and issue-related metrics. Ensured that JIRA items contain sufficient detail to be worked quickly/efficiently once assigned to a Sprint. Scheduled and sponsored cyclical retrospectives to improve Sprint performance and communication. Analyzed JIRA backlog items by project to identify common root causes or associations, perform efficient item grouping and assignment.
+Expedited good sprint planning, helping the team in making appropriate commitments through story sizing and task definition. Worked with the Product Owner to maximize ROI and attainment of project objectives Sprint reviews and planning knowledge.
+Scheduled the daily standup meetings, the backlog grooming session meetings, sprint review and retrospective meetings. During the daily standup meetings, the team informed the other team members what they worked on, what they will be working on and informed the scrum master if there were any roadblocks. If any roadblocks existed worked with the functional managers to remove the roadblock. Worked with both teams to work as a TEAM to get the work done.
+In addition, I follow projects as they unfold, identifying and resolving team member impediments, negotiating and working closely with team members, maintaining ongoing contact with our clients and keeping senior staff apprised of the project's progress.
+Keep on top of the team's blockers, remaining persistent in eliminating all impediments to help increase velocity. Create comfortable team environment where honesty, respect, collaboration, accountability, and visibility were emphasized. Proactive in developing and maintaining team standards, tools, and best practices.
+While involved with the entire product life cycle, my main focus is on driving new product development so we could deliver superior and differentiated new products - ones that deliver unique benefits and superior value to the customer.
+Mentored to development teams, project managers and business stakeholders in Scrum and Agile. Trained the team on Agile values; helping them realize the full value of Agile. Persuaded Product owner in splitting user stories and acceptance criteria. Promoted Backlog grooming and prioritization with Product Owner.
+Highly collaborative, excellent interpersonal skills and ability to work with diverse personality types.
+Environment: Microsoft Office tools, .NET, MS-Project, JIRA, Share point, Scrum. HP-ALM, Enovia PLM, java, Matrix Query Language, Java, Agile, Scrum, Kanban, Confluence, AWS (Amazon Web Services), Extreme Programming (XP), JIRA, Confluence, SAFe.
+Nexeon Inc. – Technology and Operations, Greater Philadelphia Area 				 March ’14 – June ’15
+Enterprise Data warehouse (EDW)
+Sr. Scrum Master
+Technology and Operations supports complex and extensive technology implementation needs of various clients of Nexeon Inc. While working with technology leadership, my role is to map the existing processes and help team’s effort to mature processes and leverage firm’s capabilities to drive the business growth.
+Responsibilities:
+Chair daily and weekly SCRUM meetings. Present and discuss the burn-down chart and the release burn-down chart. 
+Coached scrum teams in agile values and practices. Acted as facilitator / mediator between the teams and outside influences. Facilitated scrum events, removed impediments and kept team focused on the delivery of their commitments. Provided Agile Methodology training to new team members.
+Managed and delivered accurate, complete, relevant templates and other mechanisms as needed across teams to speed up the development process. 
+Establishing foundation of Scrum methods and practices for serving the information needs of law enforcement and court administration. Coached the Agile Enterprise Transformation for over 3 Agile Teams.
+Collaborated on an Agile Coaching Team to consistently implement Agile principles, practices, and rules across all teams. Identified Enterprise constraints to Agility and led constraint resolution planning and execution.
+Conducted an Agile Readiness Assessment; provided advice and mentoring on implementing Scrum methods and practices related to roles (Scrum Master, Product Owner & Team), events (Sprint Planning, Daily Scrums, Sprints, Backlog Grooming, Sprint Reviews & Sprint Retrospectives) and artifacts (Backlogs & Performance Metrics).
+Served as Scrum Trainer and initially as Scrum Master to facilitate organizational transformation and the adoption of Agile principles that improved software quality, productivity and predictability of release schedules; contributed to the successful release.
+Advised the restructuring of the PMO to be an Agile PMO. Created a Project Methodology Selection Matrix (Kanban, ScrumBan, Scrum, Water- Scrum-Fall, and Waterfall). Created and executed a strategically phased Agile Transformation plan. Led an Agile Transformation to phase ramp-up usage of multiple Agile frameworks and methodologies (Kanban, ScrumBan, Scrum, Water-Scrum-Fall, and Waterfall). Modeled Agile project scheduling scenarios.
+Aided Teams in methodology \ framework Process Improvements. Created a standard Agile Team Assessment. Conducted standard Agile Team Assessments with Process Improvement Roadmaps.
+Prioritize tasks, manage multiple projects and workflows and work with cross-functional teams - domestic and international.
+Provided the core principles of Scrum to our team of 12 on-shore and off-shore associates, promoting the core agile principles of collaboration, self-organization, prioritization, team accountability and visibility.
+Motivated teams to accomplish objectives despite obstacles.
+Organized and facilitated project planning, daily stand-ups, reviews, retrospectives, sprint and release planning, and demos.
+Tracked and communicated team velocity and sprint / grooming / release progress.
+Removed roadblocks / impediments to teams’ progress.
+Assisted the team in story selection and task definition to ensure appropriate commitments
+Assisted with backlog maintenance, prioritization and resolution of defects / bugs
+Provided guidance and metrics to team members on the practice and execution of projects.
+Environment: Microsoft Office tools, MS-Project, Rally, java environment, Share point, Scrum, SAP Business objects, SAP Business Intelligence, SAP BODS.
+							 
+Invensys, Lake Forest, CA				 					 Dec ’11 – Feb ’14
+Target Corporation - Partner Tool Kit (Honeyfund and Target-eGifter)
+Sr. Scrum Master
+Target Gift Registry partnered with Honeyfund, a well-known company that offers registrants the ability to register for experience gifts, to allow registrants the ability to showcase and manage Honeyfund Experiences on their Target registries. Additionally, manage the on-going partnership between Target Gift Registry and eGifter.
+Responsibilities:
+Addressing impediments to the ability of the team to deliver the product goals and deliverable.
+Coordinate dependencies and technical integration between external affiliate partners (primarily Honeyfund and eGifter) and Target Gift Registry ecosystem
+Orchestrated development of new backend services to enable management of Honeyfund Items on Target's website
+Orchestrated Target's front-end development of Honeyfund experience
+Ensures that the Scrum process is used as intended and chair key meetings.
+Reiterates the concept of servant-leader to reinforce these dual perspectives.
+Maintain constant communication with product team to check what needs to be done in preparation for future sprints.
+Coach, train, and mentor Scrum teams responsible for delivering product & software projects, reinforcing best practices, helping teams identify while removing impediments, and fostering team self-management.
+Make sure the team follows the processes they have collectively agreed.
+Enriched with knowledge of agile way of work and ensuring the team/organization follows the same religiously.
+Successfully initiated and lead the Scrum in developing the Business intelligence.
+Managed 10 offshore developers and architects in two different sprint teams simultaneously
+Planned and successfully rolled out in six three-week sprints
+Involved in jointly prioritizing user stories to be delivered in Sprints Conducted daily stand up meetings maintaining and updating the sprint backlog/ burn down burn up charts
+Conducted sprint planning and release with a high degree of stakeholder acceptance.
+Tracking the project on a daily basis with points and velocity
+Working with Product and Engineering Managers commonage release cycles and escalate impediments improvements
+On ongoing basis provide scrum status updates on projects to PMO Engineering management and Peers
+Provide analysis of risks to maximize likelihood of project success
+Primary for organizing and creating deliverables including Burn down charts Weekly/Sprint Status Reports and also Summary Analysis of impediments and their root causes
+Environment: Microsoft Office - MS-Excel, MS-Project Plan (MPP), MS-Power Point, MS-word, Share point, Jira.
+			 
+Abex Medical Systems, Malaysia 				 Jan ’10 – Nov ’11 Business Intelligence implementation
+Scrum Master 
+Responsibilities:
+Led and coached a twelve-person team as Scrum Master to organize and facilitate daily stand-up meetings, reviews, retrospectives, sprint and release planning, demos, and other Scrum-related meetings.
+Interactions with product management to build Epics and Features, and architects to build the architectural runway with team sprint plan and stories.
+Working with Product Manager and Release Train Engineer on release planning and schedule.
+Facilitation of Sprint and Release Planning, Daily Stand up, Review, Demo and Retrospective.
+Creating Scrum artifacts and information boards of Burn up, Burn Down, stories, tasks, etc.
+Identifying, resolving and removing impediments.
+Evaluating and recommending appropriate Scrum tools and best usage.
+Sprint Execution & Reporting
+Responsible for time-boxed (2-4 weeks) sprint planning and execution
+Anticipate and proactively track, record, remove and escalate impediments.
+Facilitate the team in identifying and managing interactivity dependencies within product development.
+Facilitate the estimation of product backlog Items and other Scrum activities.
+Scrum Leadership
+Serve as a mentor and coach for agile methodologies to members of the scrum team, product owner, and other agile project leaders.
+Proactively resolve conflicts between people and, if necessary, escalate appropriately.
+Enable close cooperation across roles and functions and remove barriers.
+Shield team from external interferences during sprints.
+Environment: SAP Business Intelligence, Business objects, BODS, Microsoft Office - MS-Excel, MS-Project Plan (MPP), MS-Power Point, MS-word, Share point, Version One.
+ABB Drives, Finland 					 Feb ’09 – Dec ‘09
+ETL Development and Testing (ABB Drives)
+Team Lead
+Responsibilities:
+Managed projects with multi-million-dollar budgets through strategy, Project charter, Project planning, requirements, RFI, RFP, schedule, budget, scope, risk, and quality management.
+Worked on the requirements, design and testing for both SIT and UAT cycles for ETL and Report testing.
+Responsible for management activities such as – Planning, budgeting, status reporting, resource management, Escalation and stakeholder management.
+Skilled at Presentations, Joint Application, Joint Application Development (JAD) Sessions, Prototyping, Training, Gap Analysis, Business Application Support, Use Case Development.
+Interacted with internal business clients and development team to generate required project documentation.
+Document and maintain written client communications, project documents, and strategic analysis.
+Worked with SMEs and system architects to define the specifications for an application and communicate them to the system architects and write clear, concise specifications that accurately reflect business needs to system architects.
+Works very closely with stakeholders: Business Process Management, Solution Architect, Infrastructure, Business Analyst, Development, Testing, and Production support teams.
+Involved in converting the User requirements into business requirements, functional requirements and technical requirements and also created business process models from the requirement specs.
+Created detailed project plan for project build phase for the defined requirements to hand off to offshore developers and managed the work of these resources.
+Creation and running of effective Steering Committee, who make focused decisions, based upon accurate and timely status, performance reports.
+Involved in the process of Defect resolution process, Retesting Defects and Release management.
+Develop the test plan for the tasks, dependencies and participants required to mitigate the risks to system quality and obtain stakeholder support for this plan.
+Track and prepare the report of testing activities like testing results, test case coverage, and required resources.
+Environment: SAP Business objects, SAP BI, ECC, SAP NetWeaver, MS Visual Studio, SQL Server, Oracle 11, MS Excel, MS-Power Point, Java, MS-Project.
+Pace Micro technology, India 								 Mar ’07 – Dec ‘08 
+Sr Software Developer 
+Implementing driver’s functionality for set top box, FOSH testing, Boot loader - VTS and DVT for various set top box, Application development for PANDORA application and testing for various set top box.
+Responsibilities:
+Extensive experience in managing working with and leading onsite, offsite and overseas teams, preparing and running calls and meetings.
+RFI and RFP developed to select 3rd party vendors
+RFI and RFP developed to determine appropriate direction and vendor. Decision and direction determined and hardware and software purchased and installed on all environments.
+Managing open issues and working cross-functionality to facilitate resolutions.
+Responsible for project execution and status tracking/reporting.
+Author and manage project schedules including key deliverables, milestones, dependencies and resource allocation.
+Environment: Pace set top Box, C, C++, Java, Linux, Set top Box Testing, Lauterbach, gdb, Source Insight, Digi-debug, Source in Sight, Cygwin, Hyper terminal, TS-Reader Lite, Teraterm, BBS, Stream Express, XTV-Harmonizer, HFL Studio.
+VISIONTEK, India 					 Jun ’04 – Feb ‘07 
+Sr. Software Developer
+British Telecom - Unified Billing platform configuration and testing.
+Software Development for Electronic Mobile Point of Sale Terminal (EPOS)
+Responsibilities:
+Managed development and testing device drivers for EPOS terminal – R&D 
+Acquire and document knowledge of application
+Preparation of Test plan and Test summary for each release, including system test, UAT support and implementation testing of patches.
+Analysis of requirements.
+Design and execute test cases.
+Failure analysis.
+Defect logging.
+Assisting the technical team in their design and development tasks.
+Producing project definitions to include validated functional requirements, scope, rules, responsibilities, budgets, timescales and resources.
+Managing staff to ensure that all milestones are achieved with in the agreed timeframes and maintaining client relationships.
+Responsible for identifying, analyzing, measuring and managing project risks.
+Develop the test plan for the tasks, dependencies and participants required to mitigate the risks to system quality and obtain stakeholder support for this plan.
+Produced an effective plan & risk assessment so that timescales and project costs are underwritten, understood & accepted by all stakeholders.
+Environment: C, C++, QT (GUI), Linux Device Drivers, Testing, SQLite, XLib.
+Ananth Technologies, India 						 Aug ‘02 – Mar ‘04
+Sr. Developer
+Implementation of Device drivers for Digital Signal Processing Unit
+Managing all program deliverables across requirement gathering, design, implementation, testing and rollout of enterprise monitoring solutions at various customers.
+Responsibilities:
+Performed all Technical Configurations, Planning, Staff Training, and Documentation. Reviews development and test effort estimation and plans deployments accordingly.
+Responsible for leading and directing high priority projects with high levels of functional integration.
+Interact with business users and gather functional specs. Formulate scope and analyze the resource requirements.
+Assign tasks to the team and follow-up with daily update meetings. Create and maintain project plans.
+Ensure all needed tasks are performed according to high quality standards, project planning and contractual SLAs.
+Review status reports prepared by project personnel and modifies schedules or plans as required.
+Builds very strong relationship with customer and regularly highlights how the projects that are being executed are adding value to the bottom line of their organization.
+Work closely with operations teams for successful rollout of new initiatives and project/issues.
+Managed issues, risks and change control for any changes to agreed scope.
+Environment: C, C++, Linux Device Drivers, Linux Device Drivers, UNIX, QT
+CERTIFICATIONS:
+Certified - Project Management Professional (PMP) from Project Management Institute (PMI).
+Certified – PMI Agile Certified Practitioner (PMI-ACP) from Project Management Institute (PMI).
+Certified - Professional Scrum Master (PSM II) from Scrum.org.
+Certified Scrum Master (CSM) from Scrum alliance.
+Certified – Professional Scrum Product Owner (PSPO 1) from Scrum.org.
+Certified – SAFE Scaled Agilist (SA) from Scaled Agile.
+Certified – SAFE Advanced Scrum Master (SASM) from Scaled Agile.
+Certified – ICP – ICAgile Certified Professional.
+Certified – Team Kanban Practitioner (TKP).
+Certified – ITIL V3 Foundation Certification.
+Certified – AWS Certified - Solutions Architect - Associate Level.
+Certified – Six Sigma Green Belt.
+EDUCATION:
+Bachelor’s Degree in Electronics and Engineering from Sri Venkateswara University in 1996-1999

@@ -1,0 +1,318 @@
+Naga Reddy
+Contact No: 908-791-5117
+Email: mscrmreddy@gmail.com
+Professional Summary:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+7 years of Experience in developing business solutions using Microsoft Technologies like .NET,
+MS Dynamics CRM and SQL Server.
+4 years of Experience on Microsoft Dynamic CRM 2011, 2013, 2015, 2106 and Dynamics 365
+Entity, Views, Web resources, Ribbon, Chart, configuration and customization, integration with
+MS SharePoint 2010 and MS Outlook.
+Experienced in Installing, Configuring, Customizing, Administrating, Maintaining and
+Troubleshooting Microsoft CRM2011 and CRM 2013.
+Strong knowledge of Microsoft Dynamics CRM architecture and performing a migration from
+CRM 2011 to 2013 to2015 to 2016 in CRM environment.
+Complete understanding OOTB functionality of platform and experience in developing XRM
+applications.
+Expertise in developing and deploying plug-ins, custom workflow activities and java script
+extensions for MS CRM.
+Experience on CRM integration with SharePoint 2010, outlook client and other systems.
+Strong Experience in business requirement analysis, assess alternative solutions, design, develop
+and implement application solutions using Microsoft CRM SDK, C#, .NET Framework and
+JavaScript.
+Expertise on Object Model, Client object model, Web parts, User Controls, Features, workflows,
+Out-of- box Security, SharePoint Designer based coding and customization.
+Good knowledge on all service applications and Active directory.
+Experience in all phases of software development life cycle (SDLC); requirements gathering,
+analysis, design, development, testing, production, post-production support and
+review/development of business training materials.
+Proficient in HTML, XML, CSS, JSON, ODATA, IIS 6.0/7.0.
+Directly interacted with the Customer from offshore and onshore locations to co-ordinate project
+execution
+Strong technical background as a developer with good written and verbal communication in
+consulting and customer facing roles that require to work collaboratively with the Business and
+IT teams
+TECHNICAL SKILLS:
+CRM Tools
+Dynamics 365, CRM 2016,2015, 2013, 2011.
+SQL Server
+Technologies
+SQL Server Reporting Services (SSRS), SSIS and SQL Server Data Tools
+.NET Technologies
+NET framework 3.5/4.0, C#, ASP. Net, WCF.
+Web Technologies
+HTML, CSS, XML, JavaScript, JSON and ODATA
+52 E Lincoln Hwy, Edison, NJ 08820
+Tel : 732-789-2238
+Web : www.nustartech.com
+Databases
+MS-SQL Server 2008R2/12
+PROFESSIONAL EXPERIENCE
+Client
+: British Petroleum/ Infosys, Chicago, IL.
+Duration : Feb 2017 to Present
+Role
+: Dynamics CRM Consultant
+Environment: Dynamics 365, JavaScript, Visual Studio 2015, .Net, C#, Microsoft Dynamics CRM
+SDK, TFS.
+Summary:
+BP Supply and trading provide the commercial face for BP. BP trades a varied range of products
+including oil, natural gas, liquefied natural gas, currencies, metals and financial derivatives. IST CRM is
+an application that allows the IST business to improve account management and support a differentiated
+customer offer via better opportunity tracking functionality, enhanced counterparty and contact
+management, activity tracking and the provision of associated management information. It is used by
+other IST Business Units, allowing sharing of information on customers interactions and opportunities
+management.
+Responsibilities:
+• Involved in Requirements gathering, analyzing the Business Process and Project Planning.
+• Used Dynamics 365 to customize system components such as forms, views, entities, attributes,
+relationships.
+• UI form customizations, Business Rules, JavaScript, workflows, dialogs SQL, SSRS report
+development, Advanced Finds, Views, Charts and Dashboards.
+• Customized Workflows and Plugin for automated processes based on the requirement from sales
+and services department to increase visibility and efficiency.
+• Created Workflows for Email alerts and Business rules to Lock/Unlock, Show Error Messages
+and setting Field value/Default value on the form level.
+• Enhanced and developed Business Process Flows on Lead and Opportunity entities as per the
+client needs.
+• Generated Sales Reports for statistical analysis of data at user level using SSRS.
+• Used Advanced Find feature of MS Dynamics CRM and created multiple views of System
+entities
+• Integrated dynamics 365 with Microsoft Outlook.
+• Provided 2nd tier support for all CRM questions and issues.
+• Provide answers to clients by identifying problems, researching answers, guiding the client
+through corrective steps via telephone or email.
+• Identify and escalate priority issues per customer specifications.
+• Write technical documentation and guidelines for end-user support.
+• Provide client support through online chat, our ticketing system, and phone support.
+Client
+: PDR Network, NJ.
+Duration
+: Apr 2016 to Jan 2017
+Role
+: MS Dynamics CRM Developer
+Environment: Microsoft Dynamics 2016/2015, JavaScript, .Net, SQL Server 2008/2012, Azure,
+52 E Lincoln Hwy, Edison, NJ 08820
+Tel : 732-789-2238
+Web : www.nustartech.com
+SSRS, SSIS, Visual Studio, SharePoint, Microsoft Dynamics CRM SDK, TFS.
+Summary:
+PDR Network is a global healthcare company offering several products and services related to Drug
+Delivery, Lab Services, Innovation and specialty components. PDR Network wanted to upgrade their
+existing Dynamics 2011 system to Dynamics CRM 2015, so as to streamline their sales & distribution
+process and offer better customer communication. They also wanted to integrate this CRM system with
+their Analytical Services related to drug product testing, development and packaging expertise to assist
+customers.
+Responsibilities:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Analyzed the requirements for the project.
+Defined and implemented business process, required entities and workflows for Service
+Management and Risk Evaluation and management modules.
+Performed Dev planning, analysis, design and execution in Agile methodology by understanding
+the product backlog, sprint iterations, scrum session and on Kanban Flow Practices to Visualize.
+Created Entity Attributes, Lookup fields and customized forms/views for all System & Custom
+Entities.
+Pre-populating data into the CRM page during the page load using JavaScript, CRM Web
+Services and XML object.
+Created JavaScript functions to do client-side validations.
+Involved in migrating Microsoft Dynamics CRM 2013 customization to CRM 2015.
+Created dashboards using reports, pipelines, charts, campaigns and activities.
+Developed JavaScript for all the Entity forms to implement custom business logic.
+Control the navigation links on each entity form using onLoad/onSave JavaScript events to Hide
+and show the links based on Business unit.
+Power BI dashboards are extended and shared with other users to measure performance
+Involved in data migrations and update operations using LINQ and XRM within CRM across
+various entities.
+Involved in integrating CRM with SharePoint for document and record management.
+Created SQL reports for required Business functions and scenarios related to Services, Sales, and
+customer support.
+Created database maintenance plans and deleting of history data using SSIS packages.
+Extensively involved in designing the SSIS packages to export data from flat file source to SQL
+Server database.
+Extensively used CRM SDK and retrieved data from CRM using REST Endpoint with JavaScript
+and JQuery.
+Developed external SQL reports in SSRS and deployed into MS CRM.
+Customized Sitemap for entity navigation and customized ISV file for custom menus.
+Team foundation Server (TFS) is used for collaboration and version control.
+Client
+Duration
+Role
+: MarkIT, NY
+: Apr 2015 to Mar 2016
+: MS Dynamics CRM Developer
+52 E Lincoln Hwy, Edison, NJ 08820
+Tel : 732-789-2238
+Web : www.nustartech.com
+Environment: MS Dynamics 2015/2013, SQL Server 2008/2012, HTML, CSS, JavaScript, .Net,
+SharePoint, SSRS, SSIS, Power BI, Visual Studio, Microsoft Dynamics CRM SDK.
+Summary:
+MarkIT Financial Information Services is the leading software developing company providing various
+financial services and solutions to the corporate and customers. The project aims at leveraging the Chase
+online services infrastructure to provide best in class online credit card solutions to card members. This is
+a product, which is very useful to monitor the day-to-day activities of production support.
+Responsibilities:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Involved in functional analysis, design documentation, requirement gathering and development.
+Leading the CRM team to regular monthly release cycle process.
+Developed out-of-box workflows and custom workflows for CRM 2013 based on user needs.
+Worked on supporting the CRM 2011/2013 production environment and resolving the issues for
+CRM production environment.
+Involved in various meeting held based on migration of the current CRM 2011 version to the
+CRM 2013 version.
+Developed new mappings using SSIS Look up/Aggregation transformations to match the needs of
+the business case.
+Developed plug-ins, created workflow activities consumed MS Dynamics CRM web services
+using CRM SDK and configured the integration of MS Dynamics CRM with existing website.
+Used JavaScript to achieve various field customizations in the Microsoft CRM entities.
+Developed user interface screens using ASP, JavaScript and HTML/CSS.
+Extensively used Advanced Find functionality in CRM.
+Developed custom SSRS reports for CRM.
+Used excel templates for data imports to and from CRM.
+Functional and Technical understanding of the issues.
+Developed dynamic reports using CRM reporting interface and SSRS deployed it on the CRM
+that were used in the application depending on roles.
+Worked on reports, dashboards using Power BI. Surveyed variety of users to develop customized
+dashboards according to their security roles.
+Developed Duplicate detection rules to prevent Duplication in Cross entities.
+Client
+: Omnie Solutions, India
+Duration
+: Jan 2012 to Nov 2014
+Role
+: .Net/ MS Dynamics CRM Developer
+Environment: MS Dynamics 2013, HTML, SharePoint, JavaScript, AJAX, C#, Visual Studio.
+Summary:
+Omnie synergize research, technology and creativity to produce innovative solutions, methodologies and
+processes. Omnie precision, rationale and technical expertise build sustainable and flexible business
+solutions. Omnie success is an outcome of applied thought and performance and have fostered longstanding relationships with our clients through our dedication and commitment.
+Responsibilities:
+52 E Lincoln Hwy, Edison, NJ 08820
+Tel : 732-789-2238
+Web : www.nustartech.com
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Involved in Customization and Configuration of Microsoft Dynamics CRM 2013.
+Designed and built custom views, custom dashboards, templates, entities & workflows in the
+CRM. tool for numerous teams and users to meet business and user requirements.
+First point of contact for CRM business users and provided hands-on support to all departments
+that used CRM.
+Served as Subject Matter Expert relating to the CRM tool business process, data entities, and
+relations to other systems.
+Used different bindings for WCF service to support different protocols.
+Implemented web services using WCF to integrate the client systems.
+Planned and designed strategy for the migration of data from previous CRM tool to current CRM
+tool.
+Customize Dynamics CRM entities, create multiple forms (security based) on entities, add
+custom JavaScript on form events, and add web resources, navigation links to achieve the
+business requirements.
+Used JQuery, JavaScript framework to implement AJAX to restrict the screen flicker.
+Designed the Front-end screens using C#, CSS and JavaScript.
+Ensured that business functional teams were aligned on the software application deliverables
+from design, process, and end user training/documentation.
+Create a button on the CRM Client Screen that includes a script to create a client website on
+SharePoint using the already existing Client template within SharePoint.
+Maintained reports and dashboards in CRM tool.
+Client
+: AM Technologies, INDIA
+Duration
+: May 2011 to Jan 2012
+Role
+: Application Developer
+Environment: ASP .Net, C#, WCF, Visual Studio
+Summary:
+AM Technologies is a specialized partner for Unified communication and collaboration market in India.
+AM Technologies is an established software development company with an enviable & proven trackrecord engaged in providing services, technology consulting and delivering solutions to clients
+worldwide.
+Responsibilities:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Extensively worked with Win Forms using ASP.NET and C#.NET.
+Interacted with client end –user during requirements gathering sessions.
+Worked with ASP.NET AJAX Controls and Extenders and Win Forms.
+Migrated the module timesheets from Vb.net to C#.net.
+Extensively used ASP.NET Validation Controls and JavaScript for client side validations.
+Involved in creating several user controls in ASP.NET to integrate data available.
+Used C#.NET Technology for server side programming.
+Used Data list, Repeater, Data grid, Place Holder controls to show the data in the UI.
+Involved in Developing Components for Business Layer and Data Layer through third party XML
+Web services to web pages using C#.
+Incorporated Master Page to comply with look and feel of other websites.
+Created and Modified PL/SQL Packages, Functions, Stored Procedures, Shell Scripts for change
+52 E Lincoln Hwy, Edison, NJ 08820
+Tel : 732-789-2238
+Web : www.nustartech.com
+•
+requests to Existing processes.
+Developed User Controls to reduce the Complexity in User Interface Coding and provide better
+look.
+52 E Lincoln Hwy, Edison, NJ 08820
+Tel : 732-789-2238
+Web : www.nustartech.com
+

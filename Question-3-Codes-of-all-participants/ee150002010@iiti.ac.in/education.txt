@@ -1,0 +1,16 @@
+{	
+	'BTECH' : 'B.Tech',
+	'B.TECH' : 'B.Tech',
+	'B.TECH.': 'B.Tech',
+	'BACHELORS' : 'Bachelors',
+	'B.SC.' : 'B.Sc',
+	'B.SC' : 'B.Sc',
+	'BSC' : 'B.Sc',
+	'MTECH' : 'M.Tech',
+	'M.TECH' : 'M.Tech',
+	'M.TECH.' : 'M.Tech',
+	'MASTERS' : 'Masters',
+	'M.SC.' : 'M.Sc',
+	'M.SC' : 'M.Sc',
+	'MSC' : 'M.Sc'
+}
