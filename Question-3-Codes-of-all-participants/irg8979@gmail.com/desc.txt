@@ -1,0 +1,4 @@
+I use regex in python for emails and phone numbers.
+I use first line for name, and search from predefined keywords in
+resume for Technologies.
+The code is self explanatory.

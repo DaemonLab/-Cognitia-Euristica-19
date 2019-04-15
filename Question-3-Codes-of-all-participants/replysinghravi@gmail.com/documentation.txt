@@ -1,0 +1,13 @@
+The typical information extraction architecture works as follows:
+
+1.Segment the body—split the text into an array of sentences
+2.Tokenize—split each sentence into an array of words
+3.Part of Speech Tagging (POS)-tag each word with a grammatical label
+4.Chunking—group and label multi-token sequences
+
+After 4. the program will only return those chunks having label as "PERSON" in them.
+
+For extraction of phone no. and email regex is used which extract any phone no. and email from the text file.
+
+The idea and code has been inspired from this medium article-
+https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354baa

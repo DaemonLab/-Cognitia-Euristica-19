@@ -1,0 +1,27 @@
+PROBLEM STATEMENT :
+
+Our pro players now want to apply to PUBG gaming for job opportunities.
+They've prepared their CV for same. However, PUBG has got too many such CVs.
+They need to automate this process and need your help.
+
+You will be given the direct text of some sample CVs. You'll need to extract features out of the CV. (Output file format must be .json as given in sample submission file)
+For every feature that you'll extract, you'll receive points.
+
+Below is the point table for some of the features:
+
+1. Extracting Full name given in CV: 50 points
+2. Extracting the phone number and email ID of the *applicant*: 75 points
+3. Extracting the education qualification: 75 points
+4. The technologies the applicant has used/experienced/mentioned in the CV: 100 points (NORMALISED SCORING*)
+
+-----------------------------------------
+
+APPROACH : 
+
+1) Importing necessary libraries (nlp library)
+
+2) Creating sepearte functions for the problems
+
+3) Using regex function for extraction of data
+
+4)Finally printing the json formatted data 

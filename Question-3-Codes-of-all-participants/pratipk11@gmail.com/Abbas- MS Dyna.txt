@@ -1,0 +1,145 @@
+Name: ABBAS KHURRAM
+Contact: 929-111-1111
+Email: Abbaskhurram00001@gmail.com
+Summary:
+Over 9 years of extensive experience in Sr. MS Dynamic CRM and business process re-engineering with proven ability to articulate business values exposed to diverse business processes. 
+Hands on experience in requirements gathering, analysis, design, functional testing and training with strong focus on Microsoft Dynamics CRM. .
+Strong understanding of project life cycle and SDLC methodologies including RUP, RAD, Waterfall and Agile.
+Experience with commerce applications include Omni-Channel, Product Content Management (Master Data Management/ Product Information Management),
+Skilled in mapping client requirem	ents with Microsoft Dynamics CRM application functionality.
+Developed Microsoft Dynamics CRM 2013 & 2015 plugins and customized forms.
+Experience in facilitating Joint Requirement Planning (JRP) sessions with Business User Groups, conducting Joint Application Development (JAD) sessions with IT Groups and Conflict Management with Project team members.
+Managed and implemented migration from MS Dynamics CRM.
+Implemented Dynamcis CRM enhanced features as required to streamline the business process.
+Experience in dealing with different data sources ranging from Flat files, Oracle, Sybase, SQL server, Ms Access and Excel. 
+Highly motivated and a self starter with excellent communication and interpersonal skills
+Strong analytical and problem solving skills, capable of addressing relevant facts and recommending solutions.
+An efficient self-starter and quick-learner with effective interpersonal and negotiation skills.
+Technical Skills:
+Business Tools :Rational Suite (Requisite Pro, Rose, Clear Quest, Clear Case), MS Visio,MS Project, MS Access, MS Office Suite, CQ, Visual Paradigm, Doors, Business Object (Crystal Reports).
+Business Skills: Business Definition Requirements, Taxonomies, Business Process Analysis, Gap Analysis, Use Case Modeling & Analysis, Data Governance, Business Environment and Market Research Analysis.
+Methodologies: RUP, AGILE, UML & Business/Data Modeling
+Testing Tools: Win Runner, Load Runner, Test Director, Quick Test Pro, PR Tracker
+Operating Systems: Windows XP/95/98/NT/2000, Mac OS X, DOS, UNIX, Linux
+Databases: Oracle, SQL, Access 2000, MS SQL Server, MySQL, DB2, RDBMS Oracle
+Content Management Tools: Documentum, Sharepoint, Interwoven, Filenet.
+ETL /Analysis /Reporting: SSIS, SSRS, Business Objects & Crystal Reports.
+Languages: Java, HTML, XML, CSS, UNIX Shell Script, JavaScript, SQL, J2EE, JSP.
+Experience:
+Client: Parsons Corporation, Pasadena, CA
+Duration: 03/2016 to present
+Role: Sr. MS Dynamic CRM/Functional 
+Parsons is one of the largest infrastructure development companies with worldwide projects and challenging compliance and vendor/supplier management issues. The project developed a customized CRM (Microsoft Dynamics CRM) application for vendor management for overseas infrastructure project. The application constituted reporting capabilities for compliance with US and international regulations. 
+ 
+Key activities and responsibilities: 
+Followed and coordinating incidents related to convergent products & services, applications and network elements in different domains concerning technical or functional issues. 
+Enhancing MS Dynamics CRM 2016 usability by designing and optimizing navigation, forms, and layouts. 
+Responsible for defining the integration points between multiple systems with CRM and data mapping and specification writing
+Knowledge and experience in developing complex applications on Microsoft Dynamics 365 CRM platform by using the customization of entities, sitemap writing client -
+Gained training on Enterprise Asset Maintenance, introduction to financial in Microsoft Dynamics CRM course, trade and logistics.
+Analysed User Requirement Document, Business Requirement Document (BRD), Technical Requirement Specification and Functional Requirement Specification (FRS). 
+Extensive MS Dynamics CRM experience, particularly in 2015 and 2016 versions,  that has included the following: Design, development, implementation and management of MS Dynamics
+Created workflow scenarios, designed new process flows and documented the Business Process and various Business Scenarios and activities of the Business from the conceptual to procedural level. 
+Worked on Microsoft Dynamics CRM for handling the customer claim inquiries, validation and case creation.
+Working closely with senior management to develop strategic plans. 
+Good knowledge and experience in migration/upgrade of existing Microsoft Dynamics CRM to newer versions.
+Creating Custom Plugins with CRM and 365.
+Creating Custom Forms and integrated with CRM and 365.
+Worked as an Interface between the Users and the different teams involved in the application development for the better understanding of the Business and IT Processes. 
+Worked on various Microsoft Dynamics CRM configurations including Custom Objects, Page Layouts, Form Layouts, Fields values, Data viability, Reports and Dashboards.
+Maintaining effective user relationship by performing front-line support of MS Dynamics CRM  2016 users. 
+Participated in User Acceptance Testing (UAT), coordinated with clients for better quality, developed user acceptance test plans and test cases, coordinated user acceptance testing and issue resolution
+Exported Microsoft Dynamics CRM data to Microsoft Office Excel PivotTable to see patterns and trends in data
+Conducted JAD sessions with management, SME, vendors, users and other stakeholders for open and pending issues. 
+Involving in mapping customer requirements to MS Dynamics CRM  2016. 
+Worked on different data sources, creating logical data models and establishing relationship between entities using Crystal Reports, MS SSRS
+Worked on projects which used Agile and Waterfall methodologies.
+Responsible for providing analytical support in the Design, Development and Implementation of Project. 
+Assigned tasks among development team monitored and tracked progress of project following agile methodology. 
+Managed MS Dynamics CRM system through inputting new engagements, adding leads, options, and necessary stakeholder information
+Environment: MS Office Suite (Word, Excel, Access, PowerPoint & Outlook), MS Dynamics , Microsoft Visio, Share point, Caliber RM, Basic SQL, Dynamics CRM , CRM Server, Agile and Project Management.
+Client: JP Morgan Chase, New York, NY
+Duration: 10/2014 to 02/2016
+Role: Business Analyst/ MS Dynamic CRM
+JP Morgan is one of the biggest organizations of default management system. JP Morgan provides innovative, regulatory-compliant default management solutions that save time, eliminate errors and increase efficiency for residential mortgage servicers nationwide. The existing legacy home grown system was beyond further improvisation so the company decided to implement MS Dynamics CRM on premise which was customized and integrated with other LOB systems along with developing extensive reporting capabilities.
+Key activities and responsibilities: 
+Created Dynamic CRM data cleansing modules to identify duplicate student data using rules from a rules table in the database.
+Implemented common, centralized, flexible enterprise wide architecture and simplification of IT systems to support key business and CRM initiatives.
+Designed configuration of MS Dynamics CRM as per the business user's requirements and needs. 
+Assisted in migration of current CRM to MS Dynamics CRM with added features and functionality. 
+Gathered business requirements from stakeholders and translate them into detailed requirement specifications. 
+Involved in mapping customer requirements to Microsoft Dynamics CRM 2012
+Implemented software and hardware components for Microsoft Dynamics CRM and XRM applications Setup various offers and campaigns in Microsoft Dynamics CRM and presented them based on customer segmentation
+Manage CRM  Off-Shore Development Team and supervise all customizations and enhancements to CRM  2011. 
+Completed a thorough customer analysis and prepared a Request for proposal (RFP) document and got the shortlisted vendor document signed off. Finally MS Dynamics CRM was decided upon by the stakeholders among shortlisted as final implementation customer 
+Documented Business Requirement Document (BRD) and Functional Specification Document (FSD) for MS Dynamics CRM Contact Center Application. 
+Created functional specifications, which include: functional definitions of the system; functional work flows; impact analysis regarding existing applications; and UI designs, navigation, and definitions. 
+Work with clients and conduct interview sessions around Dynamics CRM modules (Finance, Inventory, Enterprise Portal, Warehouse Mgmt, Business Portal, and Trade and Logistics)
+Trained users on features and benefits of Dynamics CRM solution and IT staff on system administration, security
+Identified and documented data standardizations to be performed, data enrichment operations, data validations, data security requirements, and data exception handling processes. 
+Function as primary point of contact to the Business & the Developers for all CRM  Enhancements to CRM  2011
+Extensive use of MS SharePoint for sharing information within the organization, managing documents with peers and published reports to help team make better decisions. 
+Managed and prioritized ongoing support requests and administrative needs of MS Dynamics CRM users. 
+Interacted with client's front and back office personnel to define business requirements and software usage. 
+Environment: MS Visio, Rational Requisite Pro, Rational Clear Case, MS Dynamics AX, Rational Clear Quest, MS Office Suite, MS Project, AX Server, Share Point, Win Runner
+Client: Saks Fifth Avenue, NYC, NY 
+Duration: 03/2012 to 09/2014		
+Role: MS CRM Business Analyst
+Saks Fifth Avenue is a world-renowned retailer and an international fashion authority. As a Business Analyst I worked on multiple projects related to enhancing the customer experience on the website as well as inventory processing and store fulfillment.
+Key activities and responsibilities: 
+Conducted user interviews, gathered and analyzed requirements. 
+Organized JAD sessions with the User, Business team, Lead System Analyst and Senior Developers. 
+Developed Custom SSRS Reports and embedded into MS CRM Application under Custom Reports Category. 
+Worked as an Interface between the users and the different teams involved in the application development for better understanding of the business processes. Set up meetings and lead meetings from time to time. 
+Worked closely with Product Owners in Product Backlog prioritizations, Perform Sprint analysis and reviews. Communicated with customers to identify business processes and map them to Dynamics CRM. 
+Conducted iterations and communicated results and milestone achievements to the users while keeping the developers closely updated on all documented refinements. 
+Collaborated with business partners to analyze and understand business problem/need.
+Extensively worked on UAT environments and worked with Business Users 
+Delivered Microsoft Dynamics CRM 2013 projects through analysis, design, development, training and deployment activities necessary to deliver superior quality Microsoft CRM solutions. 
+Interacted with data management team to ensure that the data is available to BI team to report on. 
+Created and updated the Functional Design Document based on the system requirements gathered in the focus group meetings. 
+Used requirement gathering tools to define, prioritize and track requirements throughout the project lifecycle. 
+Worked on Data warehousing and maintenance of Data Marts. 
+Conducted walkthroughs with the end users to gather the modification requests from the user to upgrade or change the specifications for the product. 
+Created detailed screen mock up's using Microsoft Visio to ensure clarity between the business requirements gathered and transmitted to the development team. 
+Created Narrative UML diagrams, Use Cases, Use Case diagrams, Work flow diagrams, flow diagrams using MS Visio. 
+Supported the QA team to develop the test plan, test conditions and test cases to be used in testing based on business requirements, technical specifications and/or product knowledge. 
+Environment: MS Visio, UML, Microsoft Office Suite, Server, MS CRM, Agile, HTML, Quick Test Professional, Rational Clear Case, Microsoft Project, MySQL.
+Client: Macy’s, Cincinnati, OH 
+Duration: 01/2011 to 02/2012						
+Role: Business Analyst
+The goal of the project is to enhance the customer visibility of the existing US website in terms of a faster search criteria and detailed segregation of their products with primary respect to price to improve customer satisfaction and to provide clearer information of the products with the least amount of time and clicks.
+Key activities and responsibilities: 
+Analyze business requirement document and create use cases, use case diagrams, and activity diagrams using Visio. 
+Collaborated with business partners to define project vision and scope 
+Validated requirements for quality attributes, such as clarity, conciseness, correctness, completeness, testability, and traceability 
+Translated the business and user requirements into system requirements. 
+Partnering with business and technical stakeholders in navigating through complex multi-year platform transformation initiatives. 
+Proactive leadership on multiple priority capital programs/projects, ensuring on time delivery, balanced budgets.
+Evaluated data storage considerations to store databases and transaction logs. Created databases using SQL Server Management Studio, Database Wizard and Transact SQL Statements. 
+Engaged in agile project management life cycle of coordinating with business teams for requirement gathering, translation of same into technical specifications, organizing daily scrum meetings, removing impediments, creation of use cases/technical documents & artifacts, ERP implementation, oracle and PeopleSoft. 
+Involved in generating various reports using the SQL Server Reporting Services.
+Conducted Vendor evaluation, Proof of Concept and Implementation of solution. 
+Worked with vendor e-commerce tools like Microsoft commerce as well as helping construct and integrate in-house ecommerce applications.
+Environment: SQL Server, SAP, Clarity, SDLC, Microsoft Office, Word, Excel, Project  and Visio, Microsoft Word, SOAP, MS Office Suite, ERP Implementation, Waterfall
+Client: GameStop, Porter, TX			 	 		 	
+Role: Business Analyst
+Duration: 11/2009 to 12/2010	
+GameStop is the world's largest video game and entertainment software retailer. The Point of Sale application is designed for the GameStop retail stores all around the United States. This release comprises of Serial Number Validation/Retrieval, Customer Data Capture & Retrieval, Defective On Hand, and Reservation on Line, Title On Hand Modifications and Fencing. This application was developed to keep track of the Inventory by validating the sales/ returns transactions, Defective Merchandise, Price checking and Ability to reserve the items online.
+Key activities and responsibilities: 
+Conducted extensive requirement analysis using Rational requisite pro
+Designed and developed all Use Cases and UML models using Rational.
+Utilized corporation developed Agile SDLC methodology. Used ScrumWork Pro and Microsoft Office software to perform required job functions.
+Established a business analysis methodology around the RUP (Rational Unified Process). Helped develop use cases, project plans and manage scope. 
+Performed the requirement analysis, impact analysis and documented the requirements using Rational Requisite Pro.
+Supported project metrics analysis, team communication, resource planning, risk analysis, report generation, and documentation control using Niku/Workbench application.
+Gathered requirements and modeled the data warehouse and the underlying transactional database
+Perform Gap Analysis of the processes to identify and validate requirements.
+Created relationships in Requirement Traceability Matrix linking Business Requirements to Functional requirements and Functional Requirements to Systems Requirements.
+Used Rational Clear Case and Clear Quest as Configuration Management and Change control tools.
+Conducted Joint Application Development (JAD) sessions with IT groups. Identified the Key Changes, and participated in Stakeholder Management to communicate effectively with them
+Developed and Documented timelines for Project Delivery, and managed Projects and Resources to successful completion.
+Conducted User Acceptance Testing, gathered and documented User Manuals and Business Rules.
+Environment: Microsoft Office Suite, Documentum, Agile, Windows NT/XP, Net Suite Oracle, SQL, SQL Server, Sybase, VBScript, Business Objects
+EDUCATION:
+Master of Computer Science University of Northern Virginia 2009
